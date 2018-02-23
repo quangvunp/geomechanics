@@ -6,7 +6,7 @@ url: "quangvunp.github.io/quangvunp.github.io"
 tagline: 123A basic guide to Jekyll
 
 # Build settings
-markdown: markdown
+markdown: kramdown
 
 
 
