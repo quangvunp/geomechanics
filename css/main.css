@@ -799,3 +799,6 @@ a.more {
 		width: 70%;
 		margin-left: auto;
 	}
+.page__content {
+  text-align: justify;
+}
