@@ -413,7 +413,7 @@ article time {
 }
 a.more {
 	display: block;
-	text-align: right;
+	text-align: justify;
 }
 a.more:before {
 	content: '[';
@@ -614,7 +614,7 @@ aside li {
 	color: white;
 }
 .top-link {
-	text-align: center;
+	text-align: justify;
 	margin-bottom: 2em;
 }
 .top-link:before {
@@ -654,7 +654,7 @@ nav li a {
 	padding: .5em 0;
 	display: block;
 	max-width: 5em;
-	text-align: center;
+	text-align: justify;
 	max-width: 100%;
 	width:100%;
 }
@@ -666,7 +666,7 @@ nav li a:hover {
 	display: block;
 	background: #42659A;
 	font: 0.8em 'Oswald', 'Helvetica Narrow', Arial, sans-serif;
-	text-align: center;
+	text-align: justify;
 	letter-spacing: 0.1em;
 	color: white;
 	padding: .5em 0;
@@ -791,7 +791,7 @@ a.more {
    main footer styles
 -----------------------------------------------------*/
 .legal {
-	text-align: center;
+	text-align: justify;
 }
 }
 
