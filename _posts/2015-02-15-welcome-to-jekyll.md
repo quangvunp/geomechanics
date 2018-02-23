@@ -3,7 +3,7 @@ layout: post
 title:  "Welcome to Jekyll!"
 date:   2015-02-25
 author: Vu Nguyen
-tags: []
+tags: [jekyll]
 ---
 
 Welcome to the companion site for the [lynda.com](http://www.lynda.com "lynda.com") course *Jekyll for Web Designers*. This course is designed to present Jekyll to web designers in a clear, concise way. In this post we’ll take a quick look at how Jekyll works, and whether it’s right for you. 
