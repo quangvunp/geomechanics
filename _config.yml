@@ -1,8 +1,8 @@
 # Site settings
 title: Geomechanics
 description: "Companion blog to the lynda.com course, Jekyll for Web Designers. This site is designed to present Jekyll to web designers in a clear, concise way, and provide a resource and reference for those that are new to Jekyll."
-baseurl: "/geomechanics" 
-url: "http://quangvunp.github.io" 
+baseurl: "" 
+url: "" 
 tagline: A basic guide to Geomechanics
 
 # Build settings
