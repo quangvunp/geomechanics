@@ -3,7 +3,7 @@ layout: post
 title:  "Coding syntax"
 date:   2018-02-22
 authors: Vu Nguyen
-tags:  [jekyll, coding, julia, python]
+tags:  [jekyll, julia, python]
 ---
 This is master branch
 A Python example:
