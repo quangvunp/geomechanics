@@ -2,7 +2,7 @@
 layout: post
 title:  "Basic Commands"
 date:   2015-04-30
-tags: [jekyll, terminal]
+tags: [jekyll]
 ---
 To control Jekyll you’ll run a series of commands within your command-line interface. The Jekyll gem gives you the `jekyll` executable, which has several commands and options you can use to build and serve your site. Let’s explore these commands and their options:
 
