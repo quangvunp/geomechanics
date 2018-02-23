@@ -17,7 +17,7 @@ My name is Nguyen Pham Quang Vu. I am a PhD student in Geotechnical Engineering 
     <div class="6u 12u$(mobile)"><input type="text" name="name" placeholder="Name" /></div>
     <div class="6u$ 12u$(mobile)"><input type="text" name="email" placeholder="Email" /></div>
     <div class="12u$">
-      <textarea name="message" placeholder="Message"></textarea>
+      <textarea name="message" placeholder="Message"> rows = "10" </textarea>
     </div>
     <div class="12u$">
       <input type="submit" value="Send Message" />
