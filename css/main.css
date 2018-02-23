@@ -282,7 +282,7 @@ th {
   Global settings
 -----------------------------------------------------*/
 body {
-	font: 100% 'Arial', Georgia, serif;
+	font: 110% 'Roboto Slab', Georgia, serif;
 	background: white;
 	direction: ltr;
 }
@@ -422,7 +422,7 @@ a.more:after {
 	content: ']';
 }
 p code {
-	font-size: 1.0em;
+	font-size: 1.2em;
 	font-weight: bold;
 }
 pre {
@@ -494,7 +494,7 @@ dd {
 .nextLink {
 	float: right;
 	width: 50%;
-	text-align: center ;
+	text-align: right;
 }
 .previous:before {
 	content: '\00ab\00a0';
@@ -793,7 +793,9 @@ a.more {
 .legal {
 	text-align: center;
 }
-}
+
+	
+	
 
 .comments {
 		width: 70%;
