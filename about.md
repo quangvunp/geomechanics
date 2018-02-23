@@ -22,7 +22,7 @@ My name is Nguyen Pham Quang Vu. I am a PhD student in Geotechnical Engineering 
   <br />
   <input type='text' id='name' name='name' placeholder='Your Name' cols = '70' />
   <br />
-  <label for='email'>Email</label>
+  <!--<label for='email'>Email</label> -->
   <br />
   <input type='text' id='email' name='email' placeholder='Your Email' cols = '70' />
   <br />
