@@ -29,7 +29,7 @@ My name is Nguyen Pham Quang Vu. I am a PhD student in Geotechnical Engineering 
   </div>
   
   <div class="form-group">
-    <textarea class="form-control" id="textarea" name="message">Your Message</textarea>
+    <textarea class="form-control" id="textarea" rows = "10" name="message">Your Message</textarea>
   </div>
   
   
@@ -48,7 +48,7 @@ My name is Nguyen Pham Quang Vu. I am a PhD student in Geotechnical Engineering 
 <form action="//formspree.io/quangvunp@gmail.com" method="POST">
     <p>Name: </p><input type="text" name="name"><br />
     <p>Email: </p><input type="email" name="email"><br />
-    <p>Message: </p><input type="message" name="message" row = "6"><br />
+    <p>Message: </p><input type="message" name="message" rows = "6"><br />
     <input type="submit" value="Send">
 </form>
 
