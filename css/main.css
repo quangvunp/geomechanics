@@ -794,3 +794,8 @@ a.more {
 	text-align: center;
 }
 }
+
+.comments {
+		width: 70%;
+		margin-left: auto;
+	}
