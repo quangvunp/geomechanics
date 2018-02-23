@@ -14,7 +14,7 @@ My name is Nguyen Pham Quang Vu. I am a PhD student in Geotechnical Engineering 
 ## Contact
 
 <form class="form-horizontal" action="//formspree.io/youremail@yourweb.com" method="POST">
-<fieldset>
+
   <div class="form-group">
     <input type="text" name="name" placeholder="Your Name">
   </div>
@@ -28,5 +28,5 @@ My name is Nguyen Pham Quang Vu. I am a PhD student in Geotechnical Engineering 
     <input type="submit" value="Send">
   </div>
     <input type="text" name="_gotcha" style="display:none" />
-</fieldset>
+
 </form>
