@@ -23,9 +23,9 @@ date: 2018-02-23
 
 
 
-[Preconsolidation Pressure]({{ site.url }}/assests/Notes/Plasticity/5d-Preconsolidation Pressure.PDF.PDF)
+[Preconsolidation Pressure]({{ site.url }}/assests/Notes/Plasticity/5d-Preconsolidation Pressure.PDF)
 
-[SubloadingModifiedCamClay]({{ site.url }}/assests/Notes/Plasticity/6-SubloadingModifiedCamClay.PDF.PDF)
+[SubloadingModifiedCamClay]({{ site.url }}/assests/Notes/Plasticity/6-SubloadingModifiedCamClay.PDF)
 
 [Equivalent of yield surface]({{ site.url }}/assests/Notes/Plasticity/7-Equivalent_of_yield_surfaces.PDF)
 
