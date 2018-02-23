@@ -2,7 +2,7 @@
 layout: post
 title:  "Markdown - Kramdown example"
 date:   2018-02-22
-tags: [jekyll, markdown]
+tags: [jekyll]
 ---
 
 Use `<html>` tags for this.
