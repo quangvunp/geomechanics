@@ -3,8 +3,8 @@ layout: page
 title: About this blog
 ---
 
-This site was created to help you learn basis knowlege of Geotechnical Engineering and Finite Element Method
+This site was created to help you learn basic knowlege of Geotechnical Engineering and Finite Element Method
 
-### About the Author
+## About me
 
 My name is Nguyen Pham Quang Vu. I am a PhD student in Geotechnical Engineering at Yokohama National University. You can conntact me via email: quangvunp@gmail.com, or by [Facebook]("https://www.facebook.com/quangvu.np"). 
