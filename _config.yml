@@ -1,8 +1,8 @@
 # Site settings
 title: AVJekyll for Web Designers2
 description: "Companion blog to the lynda.com course, Jekyll for Web Designers. This site is designed to present Jekyll to web designers in a clear, concise way, and provide a resource and reference for those that are new to Jekyll."
-baseurl: "" 
-url: "" 
+baseurl: "quangvunp.github.io" 
+url: "quangvunp.github.io/quangvunp.github.io" 
 tagline: 123A basic guide to Jekyll
 
 # Build settings
