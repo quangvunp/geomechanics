@@ -32,13 +32,19 @@ My name is Nguyen Pham Quang Vu. I am a PhD student in Geotechnical Engineering 
 </form>
 
 
-<form action="https://getsimpleform.com/messages?form_api_token=<form_api_token>" method="post">
-
-  <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
-  <input type='hidden' name='redirect_to' value='<the complete return url e.g. http://fooey.com/thank-you.html>' />
-
-  <!-- all your input fields here.... -->
-  <input type='text' name='test' />
-
-  <input type='submit' value='Test form' />
+<form action="http://getsimpleform.com/messages?form_api_token=475339605245a246498c3b1d364a845b" method="post">
+  <input type='hidden' name='redirect_to' value='http://minhajuddin.com/thank-you' />
+  <label for='name'>Name</label>
+  <br />
+  <input type='text' id='name' name='name' placeholder='Your Name' />
+  <br />
+  <label for='email'>Email</label>
+  <br />
+  <input type='text' id='email' name='email' placeholder='Your Email' />
+  <br />
+  <label for='email'>Message</label>
+  <br />
+  <textarea id='message' name='message' placeholder='Message' rows='8' cols='50'></textarea>
+  <br />
+  <input type='submit' value='Submit' />
 </form>
