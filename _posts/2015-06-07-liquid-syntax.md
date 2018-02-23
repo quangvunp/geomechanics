@@ -2,7 +2,7 @@
 layout: post
 title:  "Liquid Syntax Basics"
 date:   2015-06-07
-tags: []
+tags: [jekyll]
 ---
 Jekyll uses the [Liquid](http://liquidmarkup.org/ "liquid") template language to control the logic of templates and assemble pages dynamically. To get the most out of Jekyll, and to build effective templates you need to understand the basics of how Liquid works. In this post we’ll cover the basics of Liquid syntax so that as you begin to author templates, you’ll have a greater understanding of Jekyll’s capabilities and how Liquid can help you build more powerful sites.
 
