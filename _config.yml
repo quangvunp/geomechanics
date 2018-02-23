@@ -1,6 +1,6 @@
 # Site settings
 title: Geomechanics
-description: "Companion blog to the lynda.com course, Jekyll for Web Designers. This site is designed to present Jekyll to web designers in a clear, concise way, and provide a resource and reference for those that are new to Jekyll."
+description: "This is Vu Nguyen's personal website to summarize and share his knowleges about FEM, GEOTECH and to store his personal experiences in life."
 baseurl: "" 
 url: "" 
 tagline: A basic guide to Geomechanics
