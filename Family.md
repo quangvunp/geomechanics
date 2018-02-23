@@ -6,7 +6,6 @@ title: Family
 ### Thailand
 ![Thailand1]({{ site.url }}/assests/pictures/family/Thailand1.jpg){:width="70%"} 
 ![Thailand2]({{ site.url }}/assests/pictures/family/Thailand2.jpg){:width="70%"} 
-![Thailand2]({{ site.url }}/assests/pictures/family/Thailand3.jpg){:width="70%"} 
 ![Thailand3]({{ site.url }}/assests/pictures/family/Thailand3.jpg){:width="70%"} 
 ![Thailand4]({{ site.url }}/assests/pictures/family/Thailand4.jpg){:width="70%"} 
 
