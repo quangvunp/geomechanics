@@ -2,7 +2,7 @@
 layout: post
 title:  "Configuration Options"
 date:   2015-05-14
-tags: [jekyll, yaml, markdown]
+tags: [jekyll]
 ---
 One of the main reasons to use a static site generator like Jekyll is the automation it provides for repetitive tasks and page generation. In Jekyll many of those automations are driven by the configuration file **_config.yml**. In order to harness the true power of Jekyll it’s important to understand how this file works and what your options are when using it.
 
