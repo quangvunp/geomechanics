@@ -12,15 +12,21 @@ sdf
 My name is Nguyen Pham Quang Vu. I am a PhD student in Geotechnical Engineering at Yokohama National University. You can conntact me via email: quangvunp@gmail.com, or by [Facebook]("https://www.facebook.com/quangvu.np"). 
 
 ## Contact
-<form method="post" action="https://formspree.io/{{ site.email }}">
-  <div class="row">
-    <div class="6u 12u$(mobile)"><input type="text" name="name" placeholder="Name" /></div>
-    <div class="6u$ 12u$(mobile)"><input type="text" name="email" placeholder="Email" /></div>
-    <div class="12u$">
-      <textarea name="message" placeholder="Message"> rows = "10" </textarea>
-    </div>
-    <div class="12u$">
-      <input type="submit" value="Send Message" />
-    </div>
+
+<form class="form-horizontal" action="//formspree.io/youremail@yourweb.com" method="POST">
+<fieldset>
+  <div class="form-group">
+    <input type="text" name="name" placeholder="Your Name">
   </div>
+  <div class="form-group">
+    <input type="email" name="_replyto" placeholder="Your Email">
+  </div>
+  <div class="form-group">
+    <textarea class="form-control" id="textarea" rows = "10" name="message">Your Message</textarea>
+  </div>
+  <div class="form-group">
+    <input type="submit" value="Send">
+  </div>
+    <input type="text" name="_gotcha" style="display:none" />
+</fieldset>
 </form>
