@@ -494,7 +494,7 @@ dd {
 .nextLink {
 	float: right;
 	width: 50%;
-	text-align: justify;
+	text-align: ;
 }
 .previous:before {
 	content: '\00ab\00a0';
