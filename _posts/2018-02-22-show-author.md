@@ -2,7 +2,7 @@
 layout: post
 title:  "Authors"
 date:   2018-02-22
-tags: [basics]
+tags: []
 ---
 
 See _layout/post, from:
