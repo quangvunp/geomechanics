@@ -2,7 +2,7 @@
 layout: post
 title:  "Coding syntax"
 date:   2018-02-22
-tags: jekyll, julia1
+tags: [jekyll, julia, python]
 ---
 
 
