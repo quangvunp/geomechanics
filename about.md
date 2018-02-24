@@ -18,7 +18,7 @@ My name is Nguyen Pham Quang Vu. I am a PhD student in Geotechnical Engineering 
 
 <form action="http://getsimpleform.com/messages?form_api_token=475339605245a246498c3b1d364a845b" method="post">
   <input type='hidden' name='redirect_to' value='http://minhajuddin.com/thank-you' />
-  <label for='name'>Name</label>
+  <!--<label for='name'>Name</label>-->
   <br />
   <br />
   <input type='text' id='name' name='name' placeholder='Your Name' cols='70' />
@@ -30,6 +30,7 @@ My name is Nguyen Pham Quang Vu. I am a PhD student in Geotechnical Engineering 
   <br />
   <label for='email'>Message</label>
   <br />
+    <br />
   <textarea id='message' name='message' placeholder='Message' rows='10' cols='70'></textarea>
   <br />
   <input type='submit' value='Submit' />
