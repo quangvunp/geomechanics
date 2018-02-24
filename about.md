@@ -27,10 +27,10 @@ Room 207, S8-3 building, Civil Engineering Department, Yokohama National Univers
 
 <form action="https://formspree.io/quangvunp@gmail.com"
      method="POST">
-    <textarea placeholder = "Name" class="form-control" id="textarea" name="name" rows = "1" cols ="60"></textarea>
-    <textarea placeholder = "Email" class="form-control" id="textarea" name="email" rows = "1" cols ="60"></textarea>
-    <textarea placeholder = "Subject" class="form-control" id="textarea" name="subject" rows = "1" cols ="60"></textarea>
-    <textarea placeholder = "Message" class="form-control" id="textarea" name="message" rows = "10" cols ="60"></textarea><br />
+    <textarea placeholder = "Name" class="form-control" id="textarea" name="name" rows = "1" cols ="80"></textarea>
+    <textarea placeholder = "Email" class="form-control" id="textarea" name="email" rows = "1" cols ="80"></textarea>
+    <textarea placeholder = "Subject" class="form-control" id="textarea" name="subject" rows = "1" cols ="80"></textarea>
+    <textarea placeholder = "Message" class="form-control" id="textarea" name="message" rows = "10" cols ="80"></textarea><br />
    <input type="submit" value="Send">
 </form>
 
