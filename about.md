@@ -9,14 +9,15 @@ My name is Nguyen Pham Quang Vu. I am a PhD student in Geotechnical Engineering 
 
 ## Contact:
 **Mailing to:**:
-
-Yokohama National University, Civil Engineering Department
+240-8501 神奈川県横浜市保土ケ谷区常盤台79-5
+建設学科土木工学棟
+79 Tokiwadai, Hodogaya-ku, Yokohama-shi, Kanagawa-ken 240-0067
 
 **Email:**
 quangvunp@gmail.com
 
 **Office:**
-Room 207, S8-3 building, Yokohama National University
+Room 207, S8-3 building, Civil Engineering Department, Yokohama National University
 
 
 
