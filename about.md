@@ -42,5 +42,5 @@ Room 207, S8-3 building, Civil Engineering Department, Yokohama National Univers
   </div>
 
 
-{% include youtube.html id="8lsvjdkQ" %}
+{% youtube.html id="8lsvjdkQ" %}
 
