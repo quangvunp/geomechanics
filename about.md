@@ -1,5 +1,5 @@
 ----
-layout: pages
+layout: page
 title: About
 ---
 
@@ -19,7 +19,7 @@ My name is Nguyen Pham Quang Vu. I am a PhD student in Geotechnical Engineering 
     <textarea class="form-control" id="textarea" name="name" rows = "1" cols ="60">Name</textarea>
     <textarea class="form-control" id="textarea" name="email" rows = "1" cols ="60">Email</textarea>
     <textarea class="form-control" id="textarea" name="email" rows = "1" cols ="60">Subject</textarea>
-    <textarea id = "message" placeholder = "Message" class="form-control" id="textarea" name="message" rows = "10" cols ="60">Message</textarea><br />
+    <textarea id = "message" placeholder = "Message" class="form-control" id="textarea" name="message" rows = "10" cols ="60"></textarea><br />
     
     <input type="submit" value="Send">
 </form>
