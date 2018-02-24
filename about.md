@@ -16,7 +16,7 @@ My name is Nguyen Pham Quang Vu. I am a PhD student in Geotechnical Engineering 
 
 <form action="https://formspree.io/quangvu@gmail.com"
       method="POST">
-    <input type="text" name="name">
-    <input type="email" name="_replyto">
+    <input type="text" name="name" cols = "70">
+    <input type="email" name="_replyto" cols = "70">
     <input type="submit" value="Send">
 </form>
