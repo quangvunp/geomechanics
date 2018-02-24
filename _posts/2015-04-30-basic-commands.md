@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Basic Commands"
+<!--title:  "Basic Commands"-->
 date:   2015-04-30
 tags: [jekyll]
 ---
