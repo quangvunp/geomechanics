@@ -16,11 +16,9 @@ My name is Nguyen Pham Quang Vu. I am a PhD student in Geotechnical Engineering 
 
 <form action="https://formspree.io/quangvunp@gmail.com"
       method="POST">
-    Name: <input type="text" name="name" cols = "70">Name <br />
-    <p> Email: </p><input type="email" name="_replyto" rows = "10" cols = "70">Email <br />
-    <p> Subject: </p><input type="text" name="name" rows = "10" cols = "70">Subject <br />
-    <textarea class="form-control" id="textarea" name="name" rows = "10" cols ="70">Name</textarea>
-    <textarea class="form-control" id="textarea" name="email" rows = "10" cols ="70">Email</textarea>
-    <textarea class="form-control" id="textarea" name="message" rows = "10" cols ="70">Your Message2</textarea>
+    <textarea class="form-control" id="textarea" name="name" rows = "1" cols ="60">Name</textarea>
+    <textarea class="form-control" id="textarea" name="email" rows = "1" cols ="60">Email</textarea>
+    <textarea class="form-control" id="textarea" name="email" rows = "1" cols ="60">Subject</textarea>
+    <textarea class="form-control" id="textarea" name="message" rows = "10" cols ="60">Message</textarea><br />
     <input type="submit" value="Send">
 </form>
