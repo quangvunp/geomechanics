@@ -19,5 +19,7 @@ My name is Nguyen Pham Quang Vu. I am a PhD student in Geotechnical Engineering 
     Name: <input type="text" name="name" cols = "70"> <br />
     <p> Email: </p><input type="email" name="_replyto" cols = "70"> <br />
     <p> Subject: </p><input type="text" name="name" cols = "70"> <br />
+    <p> Message: </p>
+    <textarea class="form-control" id="textarea" name="message">Your Message</textarea>
     <input type="submit" value="Send">
 </form>
