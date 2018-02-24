@@ -8,11 +8,11 @@ sdf
 My name is Nguyen Pham Quang Vu. I am a PhD student in Geotechnical Engineering at Yokohama National University. You can conntact me via email: quangvunp@gmail.com, or by [Facebook]("https://www.facebook.com/quangvu.np"). 
 
 
-<span style="color: #f2cf4a; font-family: Babas; font-size: 2em;">Contact Information</span>
+<span style="color: ##3484bc; font-family: Babas; font-size: 2em;">Contact Information</span>
 
-<span style="color: #f2cf4a; font-family: Time News Roman; font-size: 2em;">
-Department of Mathematics,
-Rice University
+<span style="color: #3484bc; font-family: Time News Roman; font-size: 1.5em;">
+Department of Civil Engineering,
+Yokohama National University
 </span>
 
 ## Contact:
