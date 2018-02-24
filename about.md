@@ -27,3 +27,5 @@ Room 207, S8-3 building, Civil Engineering Department, Yokohama National Univers
     <textarea placeholder = "Message" class="form-control" id="textarea" name="message" rows = "10" cols ="60"></textarea><br />
    <input type="submit" value="Send">
 </form>
+
+<span style="color: #f2cf4a; font-family: Babas; font-size: 2em;">INSPIRATION DAY</span>
