@@ -12,7 +12,7 @@ sdf
 
 My name is Nguyen Pham Quang Vu. I am a PhD student in Geotechnical Engineering at Yokohama National University. You can conntact me via email: quangvunp@gmail.com, or by [Facebook]("https://www.facebook.com/quangvu.np"). 
 
-## Contact
+## Contact Vu
 
 <form action="//formspree.io/quangvunp@gmail.com" method="POST">
     <p>Name: </p><input id= "Name" type="text" name="name" cols="70"> <br />
