@@ -1,3 +1,9 @@
+
+<div style="text-align:center;">
+<iframe width="600" height = "400" src="https://www.youtube.com/embed/qv6UVOQ0F44" frameborder="0" allowfullscreen></iframe>
+<div class="thecap">横浜国立大学紹介動画</div>
+</div>
+
 This site was created to help you learn basic knowlege of Geotechnical Engineering and Finite Element Method
 sdf
 
@@ -34,7 +40,3 @@ Room 207, S8-3 building, Civil Engineering Department, Yokohama National Univers
    <input type="submit" value="Send">
 </form>
 
-<div style="text-align:center;">
-<iframe width="600" height = "400" src="https://www.youtube.com/embed/qv6UVOQ0F44" frameborder="0" allowfullscreen></iframe>
-<div class="thecap">Huấn luyện cho máy tính chơi game Mario</div>
-</div>
