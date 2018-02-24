@@ -1,7 +1,7 @@
 This site was created to help you learn basic knowlege of Geotechnical Engineering and Finite Element Method
 sdf
 
-##**About me**
+##About me
 
 ![Picture1]({{ site.url }}/assests/pictures/family/About.jpg){:width="70%"}
 
