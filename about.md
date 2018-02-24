@@ -34,7 +34,7 @@ Room 207, S8-3 building, Civil Engineering Department, Yokohama National Univers
    <input type="submit" value="Send">
 </form>
 
-<div style="text-align:center;">
-<iframe width="600" height = "400" src="https://https://www.youtube.com/watch?v=NqMJVSZzdek" frameborder="0" allowfullscreen></iframe>
-<div class="thecap">Huấn luyện cho máy tính chơi game Mario</div>
-</div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/{{ include.id }}" frameborder="0" allowfullscreen></iframe>
+
+{% include https://www.youtube.com/watch?v=vtRCbzVrMF8 id=page.youtubeId %}
