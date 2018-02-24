@@ -9,9 +9,9 @@ My name is Nguyen Pham Quang Vu. I am a PhD student in Geotechnical Engineering 
 
 
 <span style="color: #0362a5; font-family: Babas; font-size: 2em;">**Contact Information**</span> <br />
-<span style="color: #0362a5; font-family: Time News Roman; font-size: 1.5em;">
-Department of Civil Engineering, <br />
-Yokohama National University
+<span style="color: #0362a5; font-family: Time News Roman; font-size: 1.3em;">
+***Department of Civil Engineering, <br />
+Yokohama National University***
 </span>
 
 **Mailing to:**<br />
