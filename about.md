@@ -10,7 +10,7 @@ My name is Nguyen Pham Quang Vu. I am a PhD student in Geotechnical Engineering 
 
 <span style="color: #f2cf4a; font-family: Babas; font-size: 2em;">Contact Information</span>
 
-<span style="color: #f2cf4a; font-family: Babas; font-size: 2em;">
+<span style="color: #f2cf4a; font-family: Time News Roman; font-size: 2em;">
 Department of Mathematics,
 Rice University
 </span>
