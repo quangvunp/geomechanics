@@ -4,6 +4,11 @@
 <div class="thecap">横浜国立大学紹介動画</div>
 </div>
 
+<div style="text-align:center;">
+<iframe width="600" height = "400" src="https://https://www.youtube.com/watch?v=NqMJVSZzdek" frameborder="0" allowfullscreen></iframe>
+<div class="thecap">Huấn luyện cho máy tính chơi game Mario</div>
+</div>
+
 This site was created to help you learn basic knowlege of Geotechnical Engineering and Finite Element Method
 sdf
 
