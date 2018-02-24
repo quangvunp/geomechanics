@@ -21,14 +21,14 @@ My name is Nguyen Pham Quang Vu. I am a PhD student in Geotechnical Engineering 
   <!--<label for='name'>Name</label>-->
   <br />
   <br />
-  <input type='text' id='name' name='name' placeholder='Your Name' cols='70' />
-  <br />
+  <input type='text' id='name' name='name' placeholder='Your Name' rows = '2' cols='70' />
+  
   <!--<label for='email'>Email</label> -->
   <br />
   <br />
-  <input type='text' id='email' name='email' placeholder='Your Email' cols='70' />
+  <input type='text' id='email' name='email' placeholder='Your Email' rows = '2' cols='70' />
   <br />
-  <label for='email'>Message</label>
+  <!--<label for='email'>Message</label>-->
   <br />
     <br />
   <textarea id='message' name='message' placeholder='Message' rows='10' cols='70'></textarea>
