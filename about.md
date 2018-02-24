@@ -26,8 +26,8 @@ My name is Nguyen Pham Quang Vu. I am a PhD student in Geotechnical Engineering 
 
 <form action="https://formspree.io/quangvunp@gmail.com"
       method="POST">
-    <input type="text" name="name">
-    <input type="email" name="_replyto">
+    <input placeholder = "Name" type="text" name="name">
+    <input placeholder = "Email" type="email" name="_replyto">
     <textarea placeholder = "Message" class="form-control" id="textarea" name="message" rows = "10" cols ="60"></textarea><br />
     <input type="submit" value="Send">
 </form>
