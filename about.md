@@ -30,7 +30,6 @@ My name is Nguyen Pham Quang Vu. I am a PhD student in Geotechnical Engineering 
   <br />
   <!--<label for='email'>Message</label>-->
   <br />
-    <br />
   <textarea id='message' name='message' placeholder='Message' rows='10' cols='70'></textarea>
   <br />
   <input type='submit' value='Submit' />
