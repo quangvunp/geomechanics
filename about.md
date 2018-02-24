@@ -30,7 +30,6 @@ quangvunp@gmail.com
 **Office:**<br />
 Room 207, S8-3 building, Civil Engineering Department, Yokohama National University
 
-
 <form action="https://formspree.io/quangvunp@gmail.com"
      method="POST">
     <textarea placeholder = "Name" class="form-control" id="textarea" name="name" rows = "1" cols ="80"></textarea>
