@@ -1,7 +1,3 @@
-<div style="text-align:center;">
-<iframe width="600" height = "400" src="https://https://www.youtube.com/watch?v=NqMJVSZzdek" frameborder="0" allowfullscreen></iframe>
-<div class="thecap">Huấn luyện cho máy tính chơi game Mario</div>
-</div>
 
 This site was created to help you learn basic knowlege of Geotechnical Engineering and Finite Element Method
 sdf
@@ -37,4 +33,10 @@ Room 207, S8-3 building, Civil Engineering Department, Yokohama National Univers
     <textarea placeholder = "Message" class="form-control" id="textarea" name="message" rows = "10" cols ="80"></textarea><br />
    <input type="submit" value="Send">
 </form>
+
+<div style="text-align:center;">
+<iframe width="600" height = "400" src="https://https://www.youtube.com/watch?v=NqMJVSZzdek" frameborder="0" allowfullscreen></iframe>
+<div class="thecap">Huấn luyện cho máy tính chơi game Mario</div>
+</div>
+
 
