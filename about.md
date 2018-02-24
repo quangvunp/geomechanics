@@ -14,30 +14,9 @@ My name is Nguyen Pham Quang Vu. I am a PhD student in Geotechnical Engineering 
 
 ## Contact Vu
 
-<form action="//formspree.io/quangvunp@gmail.com" method="POST">
-    <p>Name: </p><input id= "Name" type="text" name="name" cols="70"> <br /> <br />
-    <p>Email: </p><input id="Email" type="email" name="email" cols="70"> <br /> <br />
-    
-  <input type='submit' value='Submit' />
-
-
-
-
-<form action="http://getsimpleform.com/messages?form_api_token=475339605245a246498c3b1d364a845b" method="post">
-  <input type='hidden' name='redirect_to' value='http://minhajuddin.com/thank-you' />
-  <!--<label for='name'>Name</label>-->
-  <br />
-  <br />
-  <input type='text' id='name' name='name' placeholder='Your Name' rows='2' cols='70' />
-  
-  <!--<label for='email'>Email</label> -->
-  <br />
-  <br />
-  <input type='text' id='email' name='email' placeholder='Your Email' rows ='4' cols='70' />
-  <br />
-  <!--<label for='email'>Message</label>-->
-  <br />
-  <textarea id='message' name='message' placeholder='Message' rows='10' cols='70'></textarea>
-  <br />
-  <input type='submit' value='Submit' />
+<form action="https://formspree.io/quangvu@gmail.com"
+      method="POST">
+    <input type="text" name="name">
+    <input type="email" name="_replyto">
+    <input type="submit" value="Send">
 </form>
