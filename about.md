@@ -1,6 +1,6 @@
 
 <div style="text-align:center;">
-<iframe width="600" height = "400" src="https://www.youtube.com/watch?v=NqMJVSZzdek" frameborder="0" allowfullscreen></iframe>
+<iframe width="600" height = "400" src="https://www.youtube.com/watch?v=IXfVciwlnoU" frameborder="0" allowfullscreen></iframe>
 <div class="thecap">横浜国立大学紹介動画</div>
 </div>
 
