@@ -33,14 +33,3 @@ Room 207, S8-3 building, Civil Engineering Department, Yokohama National Univers
     <textarea placeholder = "Message" class="form-control" id="textarea" name="message" rows = "10" cols ="80"></textarea><br />
    <input type="submit" value="Send">
 </form>
-
-
-
-
-  <div class="ytcontainer">
-    <iframe class="yt" allowfullscreen src="https://www.youtube.com/embed/{{include.id}}"></iframe>
-  </div>
-
-
-{% youtube.html id="8lsvjdkQ" %}
-
