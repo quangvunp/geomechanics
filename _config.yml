@@ -1,8 +1,8 @@
 # Site settings
 title: Geomechanics
 description: "This is Vu Nguyen's personal website to summarize and share his knowleges about FEM, GEOTECH and to store his personal experiences in life."
-baseurl: "geomechanics" 
-url: "http:://quangvunp.github.io/geomechanics" 
+baseurl: "" 
+url: "" 
 tagline: A basic guide to Geomechanics
 
 # Build settings
