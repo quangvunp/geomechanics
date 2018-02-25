@@ -2,20 +2,22 @@
 This site was created to help you learn basic knowlege of Geotechnical Engineering and Finite Element Method
 sdf
 
-###About me
 <span style="color: #0362a5; font-family: Arial; font-size: 1.5em;">**About me**</span> <br />
 
 ![Picture1]({{ site.url }}/assests/pictures/family/About.jpg){:width="70%"}
 
 My name is Nguyen Pham Quang Vu. I am a PhD student in Geotechnical Engineering at Yokohama National University.
 
-###My bachelor school: Ho Chi Minh City University of Technology
+
+
+<span style="color: #0362a5; font-family: Arial; font-size: 1.5em;">**My bachelor school: Ho Chi Minh City University of Technology**</span> <br />
 <div style="text-align:center;">
 <iframe width="600" height = "400" src="https://www.youtube.com/embed/6bwXksy4Gxs" frameborder="0" allowfullscreen></iframe>
 <div class="thecap">ホーチミン市工科大学紹介動画</div>
 </div>
 
-###My graduate school: Yokohama National University
+<span style="color: #0362a5; font-family: Arial; font-size: 1.5em;">**My graduate school: Yokohama National University**</span> <br />
+
 <div style="text-align:center;">
 <iframe width="600" height = "400" src="https://www.youtube.com/embed/NqMJVSZzdek" frameborder="0" allowfullscreen></iframe>
 <div class="thecap">横浜国立大学紹介動画</div>
