@@ -7,7 +7,7 @@ if (!pass1)
 history.go(-1);
 if (pass1.toLowerCase() == "letmein") {
 alert('You Got it Right!');
-window.open('www.wikihow.com');
+window.open('https://quangvunp.github.io/geomechanics/assests/Notes/FEM/FDM_1D.PDF');
 break;
 } 
 testV+=1;
@@ -21,11 +21,11 @@ return " ";
 </SCRIPT>
 <CENTER>
 <FORM>
-<input type="button" value="Enter Protected Area" onClick="passWord()">
+<input type="button" value="FEM_lecture1" onClick="passWord()">
 </FORM>
 </CENTER>
      
-TEST 1
+TEST 2
 
 <span style="color: #0362a5; font-family: Arial; font-size: 1.5em;">**About me**</span> <br />
 
