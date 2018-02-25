@@ -282,13 +282,14 @@ th {
   Global settings
 -----------------------------------------------------*/
 body {
-	font: 90% 'Arial', Georgia, serif;
+	font: 95% 'Arial', Georgia, serif;
 	background: white;
 	direction: ltr;
 }
 h1, h2, h3, h4, h5, h6 {
 	font-family: 'Oswald', 'Helvetica Narrow', Arial, sans-serif;
 	font-weight: 700;
+	font-weight: bold;
 }
 *, *:before, *:after {
 	-webkit-box-sizing: border-box;
