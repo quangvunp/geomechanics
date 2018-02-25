@@ -33,7 +33,7 @@ return " ";
 </SCRIPT>
 <CENTER>
 <FORM>
-<input type="button" value="FEM lecture 1" onClick="passWord()">
+<input type="link" value="FEM lecture 1" onClick="passWord()">
 </FORM>
 </CENTER>
      
