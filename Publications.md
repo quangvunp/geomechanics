@@ -1,5 +1,5 @@
 
-<span style="color: #0362a5; font-family: Arial; font-size: 1.5em;">**International Conferences**</span> <br />
+<span style="color: #0362a5; font-family: Arial; font-size: 1.8em;">**International Conferences**</span> <br />
 
 [1]  Kikumoto, M., **Nguyen, P. Q. V.**, Yasuhara, H., & Kishida, K. (2017). *Constitutive model for soft rocks considering structural healing and decay*. Computers and Geotechnics, 91, 93-103.
 
@@ -13,7 +13,7 @@
 
 
 
-<span style="color: #0362a5; font-family: Arial; font-size: 1.5em;">**International Journals**</span> <br />
+<span style="color: #0362a5; font-family: Arial; font-size: 1.8em;">**International Journals**</span> <br />
 
 [1]  Kikumoto, M., **Nguyen, P. Q. V.**, Yasuhara, H., & Kishida, K. (2017). Constitutive model for soft rocks considering structural healing and decay. *Computers and Geotechnics*, 91, 93-103.
 
