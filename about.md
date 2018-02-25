@@ -6,7 +6,19 @@ sdf
 
 ![Picture1]({{ site.url }}/assests/pictures/family/About.jpg){:width="70%"}
 
-My name is Nguyen Pham Quang Vu. I am a PhD student in Geotechnical Engineering at Yokohama National University. You can conntact me via email: quangvunp@gmail.com, or by [Facebook]("https://www.facebook.com/quangvu.np"). 
+My name is Nguyen Pham Quang Vu. I am a PhD student in Geotechnical Engineering at Yokohama National University.
+
+##My bachelor school: Ho Chi Minh City University of Technology
+<div style="text-align:center;">
+<iframe width="600" height = "400" src="https://www.youtube.com/embed/NqMJVSZzdek" frameborder="0" allowfullscreen></iframe>
+<div class="thecap">ホーチミン市工科大学紹介動画</div>
+</div>
+
+##My graduate school: Yokohama National University
+<div style="text-align:center;">
+<iframe width="600" height = "400" src="https://www.youtube.com/embed/NqMJVSZzdek" frameborder="0" allowfullscreen></iframe>
+<div class="thecap">横浜国立大学紹介動画</div>
+</div>
 
 
 <span style="color: #0362a5; font-family: Arial; font-size: 1.5em;">**Contact Information**</span> <br />
