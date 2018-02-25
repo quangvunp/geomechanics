@@ -6,7 +6,7 @@ while (testV < 3) {
 if (!pass1) 
 history.go(-1);
 if (pass1.toLowerCase() == "letmein") {
-alert('You Got it Right!');
+alert('Welcome to my note!');
 window.open('https://quangvunp.github.io/geomechanics/assests/Notes/FEM/FDM_1D.PDF');
 break;
 } 
@@ -20,12 +20,13 @@ return " ";
 } 
 </SCRIPT>
 <CENTER>
+ Lecture on FEM
 <FORM>
-<input type="checkbox" value="FEM_lecture1" onClick="passWord()">
+<input type="button" value="FEM lecture 1" onClick="passWord()">
 </FORM>
 </CENTER>
      
-TEST 3
+TEST 4
 
 <span style="color: #0362a5; font-family: Arial; font-size: 1.5em;">**About me**</span> <br />
 
