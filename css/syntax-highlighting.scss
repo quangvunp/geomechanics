@@ -22,7 +22,7 @@
   .ge {font: 85% 'Arial', Georgia, serif; color: #c000c0; text-decoration: underline} /* Generic.Emph */
   .gr {font: 85% 'Arial', Georgia, serif; color: #c0c0c0; font-weight: bold; background-color: #c00000 } /* Generic.Error */
   .gh {font: 85% 'Arial', Georgia, serif; color: #cd5c5c} /* Generic.Heading */
-  .gi {font: 65% 'Arial', Georgia, serif;color: #ffffff; background-color: #0000c0 } /* Generic.Inserted */
+  .gi {font: 85% 'Arial', Georgia, serif;color: #ffffff; background-color: #0000c0 } /* Generic.Inserted */
   span.go { color: #add8e6; font-weight: bold; background-color: #4d4d4d } /* Generic.Output, qualified with span to prevent applying this style to the Go language, see #1153. */
   .gp {font: 85% 'Arial', Georgia, serif; color: #ffffff} /* Generic.Prompt */
   .gs {font: 85% 'Arial', Georgia, serif; color: #ffffff} /* Generic.Strong */
@@ -39,12 +39,12 @@
   .s {font: 85% 'Arial', Georgia, serif; color: #ffffff} /* Literal.String */
   .na {font: 85% 'Arial', Georgia, serif; color: #ffffff} /* Name.Attribute */
   .nb {font: 85% 'Arial', Georgia, serif; color: #ffffff} /* Name.Builtin */
-  .nc {font: 85% 'Arial', Georgia, serif; color: #87e58d} /* Name.Class */
+  .nc { color: #87e58d} /* Name.Class */
   .no { color: #ffa0a0} /* Name.Constant */
   .nd { color: #ffffff} /* Name.Decorator */
   .ni { color: #ffdead} /* Name.Entity */
   .ne { color: #ffffff} /* Name.Exception */
-  .nf { font: 65% 'Arial', Georgia, serif; color: #87e58d} /* Name.Function */
+  .nf { color: #87e58d} /* Name.Function */
   .nl { color: #ffffff} /* Name.Label */
   .nn { color: #ffffff} /* Name.Namespace */
   .nx { color: #ffffff} /* Name.Other */
