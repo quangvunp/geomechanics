@@ -55,6 +55,6 @@ Room 207, S8-3 building, Civil Engineering Department, Yokohama National Univers
 </div>
 <div class="span9">
 	<h3>Calendar of Upcoming Events</h3>
-  <iframe src="https://calendar.google.com/calendar/embed?src=quangvunp%40gmail.com&ctz=Asia%2FTokyo" style="border: 0" width="600" height="500" frameborder="0" scrolling="no"></iframe>
+  <iframe src="https://calendar.google.com/calendar/embed?src=quangvunp%40gmail.com&ctz=Asia%2FTokyo" style="border: 0" width="700" height="550" frameborder="0" scrolling="no"></iframe>
 </div><!--/span-->
 
