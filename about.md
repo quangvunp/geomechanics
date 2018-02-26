@@ -48,3 +48,13 @@ Room 207, S8-3 building, Civil Engineering Department, Yokohama National Univers
     <textarea placeholder = "Message" class="form-control" id="textarea" name="message" rows = "10" cols ="80"></textarea><br />
    <input type="submit" value="Send">
 </form>
+
+<div class="span3">
+	<h3>List of 2013 Events</h3>
+<div id="upcoming"></div><!--/span-->
+</div>
+<div class="span9">
+	<h3>Calendar of Upcoming Events</h3>
+  <iframe src="https://calendar.google.com/calendar/embed?src=quangvunp%40gmail.com&ctz=Asia%2FTokyo" style="border: 0" width="600" height="500" frameborder="0" scrolling="no"></iframe>
+</div><!--/span-->
+
