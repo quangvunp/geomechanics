@@ -1,6 +1,6 @@
 ---
 ---
-.highlight  {font: 85% 'Consolas', Georgia, serif;}
+.highlight  {font: 85% 'Consolas', Georgia, serif; width:80%}
 
 .highlight {
    
@@ -44,7 +44,7 @@
   .nd { color: #ffffff} /* Name.Decorator */
   .ni { color: #ffdead} /* Name.Entity */
   .ne { color: #ffffff} /* Name.Exception */
-  .nf { color: #87e58d} /* Name.Function */
+  .nf { font: 85% 'Consolas', Georgia, serif; color: #87e58d} /* Name.Function */
   .nl { color: #ffffff} /* Name.Label */
   .nn { color: #ffffff} /* Name.Namespace */
   .nx { color: #ffffff} /* Name.Other */
