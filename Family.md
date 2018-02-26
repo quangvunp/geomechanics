@@ -2,6 +2,11 @@
 layout: page
 title: Family 
 ---
+### Wedding Photos
+<div style="text-align:center;">
+<iframe width="600" height = "400" src="https://www.youtube.com/embed/RZZiSOIur0Y" frameborder="0" allowfullscreen></iframe>
+<div class="thecap">Wedding Photos Vu-Thao</div>
+</div>
 
 ### Thailand
 ![Thailand1]({{ site.url }}/assests/pictures/family/Thailand1.jpg){:width="70%"} 
