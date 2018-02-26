@@ -29,6 +29,34 @@ type CamClay
   b::Vector{Int}
 end
 
+
+function generate_mesh_fdt(nx::Int, ny::Int)
+    pts  =  Point[ 
+                  Point([0.0, 0.0], 4.0),
+                  Point([2.5, 0.0], 1.0),
+                  Point([2.5, 3.0], 4.0),
+                  Point([0.0, 3.0], 7.0),]
+    # note: the more element, the more exact load, in the tendency to increase the load
+    # because we are using the strain displacement, to get the sum of load, the adequate number of element is necessary
+    surf     = Surface{Quad4}(pts..., nx, ny)
+    nodes    = numbering!(surf)
+    elements = get_elements(surf)
+    bottom   = get_elements(surf[1:end,1])
+    top      = get_elements(surf[1:end,end]) 
+    left     = get_elements(surf[1,1:end])
+    right    = get_elements(surf[end,1:end])
+    top_load = []
+    for i = 1:nx
+        y = hcat(top[i]["geometry"][1]...)[1,:][2]
+        if (y<= 0.5 )
+            push!(top_load, top[i])
+        end
+    end
+    plot_mesh(elements, top_load)
+    return nodes, elements, bottom, top_load, left, right
+end
+
+
 """
 Elastic 
 \alpha + \beta = 1
