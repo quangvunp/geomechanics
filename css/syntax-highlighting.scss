@@ -1,44 +1,45 @@
 ---
 ---
+.highlight  {font: 85% 'Arial', Georgia, serif;}
 
 .highlight {
-   font: 85% 'Arial', Georgia, serif;
+   
   .hll { background-color: #ffffcc }
-  .c { font: 65% 'Arial', Georgia, serif; color: #87ceeb ; font-style: italic} /* Comment */
-  .err { color: #ffffff} /* Error */
-  .g { color: #ffffff} /* Generic */
-  .k { color: #f0e68c} /* Keyword */
-  .l { color: #ffffff} /* Literal */
-  .n { color: #ffffff} /* Name */
-  .o { color: #ffffff} /* Operator */
-  .x { color: #ffffff} /* Other */
-  .p { color: #ffffff} /* Punctuation */
-  .cm { color: #87ceeb} /* Comment.Multiline */
-  .cp { color: #cd5c5c} /* Comment.Preproc */
-  .c1 { color: #87ceeb} /* Comment.Single */
-  .cs { color: #87ceeb} /* Comment.Special */
-  .gd { font: 65% 'Arial', Georgia, serif; color: #0000c0; font-weight: bold; background-color: #008080 } /* Generic.Deleted */
-  .ge { color: #c000c0; text-decoration: underline} /* Generic.Emph */
-  .gr { color: #c0c0c0; font-weight: bold; background-color: #c00000 } /* Generic.Error */
-  .gh { color: #cd5c5c} /* Generic.Heading */
-  .gi {  font: 65% 'Arial', Georgia, serif;color: #ffffff; background-color: #0000c0 } /* Generic.Inserted */
+  .c { font: 85% 'Arial', Georgia, serif; color: #87ceeb ; font-style: italic} /* Comment */
+  .err {font: 85% 'Arial', Georgia, serif; color: #ffffff} /* Error */
+  .g {font: 85% 'Arial', Georgia, serif; color: #ffffff} /* Generic */
+  .k {font: 85% 'Arial', Georgia, serif; color: #f0e68c} /* Keyword */
+  .l {font: 85% 'Arial', Georgia, serif; color: #ffffff} /* Literal */
+  .n {font: 85% 'Arial', Georgia, serif; color: #ffffff} /* Name */
+  .o {font: 85% 'Arial', Georgia, serif; color: #ffffff} /* Operator */
+  .x {font: 85% 'Arial', Georgia, serif; color: #ffffff} /* Other */
+  .p {font: 85% 'Arial', Georgia, serif; color: #ffffff} /* Punctuation */
+  .cm {font: 85% 'Arial', Georgia, serif; color: #87ceeb} /* Comment.Multiline */
+  .cp {font: 85% 'Arial', Georgia, serif; color: #cd5c5c} /* Comment.Preproc */
+  .c1 {font: 85% 'Arial', Georgia, serif; color: #87ceeb} /* Comment.Single */
+  .cs {font: 85% 'Arial', Georgia, serif; color: #87ceeb} /* Comment.Special */
+  .gd {font: 85% 'Arial', Georgia, serif; font: 65% 'Arial', Georgia, serif; color: #0000c0; font-weight: bold; background-color: #008080 } /* Generic.Deleted */
+  .ge {font: 85% 'Arial', Georgia, serif; color: #c000c0; text-decoration: underline} /* Generic.Emph */
+  .gr {font: 85% 'Arial', Georgia, serif; color: #c0c0c0; font-weight: bold; background-color: #c00000 } /* Generic.Error */
+  .gh {font: 85% 'Arial', Georgia, serif; color: #cd5c5c} /* Generic.Heading */
+  .gi {font: 65% 'Arial', Georgia, serif;color: #ffffff; background-color: #0000c0 } /* Generic.Inserted */
   span.go { color: #add8e6; font-weight: bold; background-color: #4d4d4d } /* Generic.Output, qualified with span to prevent applying this style to the Go language, see #1153. */
-  .gp { color: #ffffff} /* Generic.Prompt */
-  .gs { color: #ffffff} /* Generic.Strong */
-  .gu { color: #cd5c5c} /* Generic.Subheading */
-  .gt { font: 65% 'Arial', Georgia, serif; color: #c0c0c0; font-weight: bold; background-color: #c00000 } /* Generic.Traceback */
-  .kc { color: #f0e68c} /* Keyword.Constant */
-  .kd { color: #f0e68c} /* Keyword.Declaration */
-  .kn { color: #f0e68c} /* Keyword.Namespace */
-  .kp { color: #f0e68c} /* Keyword.Pseudo */
-  .kr { color: #f0e68c} /* Keyword.Reserved */
-  .kt { color: #71ddb4} /* Keyword.Type */
-  .ld { color: #ffffff} /* Literal.Date */
-  .m { color: #ffffff} /* Literal.Number */
-  .s { color: #ffffff} /* Literal.String */
-  .na { color: #ffffff} /* Name.Attribute */
-  .nb { color: #ffffff} /* Name.Builtin */
-  .nc { color: #87e58d} /* Name.Class */
+  .gp {font: 85% 'Arial', Georgia, serif; color: #ffffff} /* Generic.Prompt */
+  .gs {font: 85% 'Arial', Georgia, serif; color: #ffffff} /* Generic.Strong */
+  .gu {font: 85% 'Arial', Georgia, serif; color: #cd5c5c} /* Generic.Subheading */
+  .gt {font: 65% 'Arial', Georgia, serif; color: #c0c0c0; font-weight: bold; background-color: #c00000 } /* Generic.Traceback */
+  .kc {font: 85% 'Arial', Georgia, serif; color: #f0e68c} /* Keyword.Constant */
+  .kd {font: 85% 'Arial', Georgia, serif; color: #f0e68c} /* Keyword.Declaration */
+  .kn {font: 85% 'Arial', Georgia, serif; color: #f0e68c} /* Keyword.Namespace */
+  .kp {font: 85% 'Arial', Georgia, serif; color: #f0e68c} /* Keyword.Pseudo */
+  .kr {font: 85% 'Arial', Georgia, serif; color: #f0e68c} /* Keyword.Reserved */
+  .kt {font: 85% 'Arial', Georgia, serif; color: #71ddb4} /* Keyword.Type */
+  .ld {font: 85% 'Arial', Georgia, serif; color: #ffffff} /* Literal.Date */
+  .m {font: 85% 'Arial', Georgia, serif; color: #ffffff} /* Literal.Number */
+  .s {font: 85% 'Arial', Georgia, serif; color: #ffffff} /* Literal.String */
+  .na {font: 85% 'Arial', Georgia, serif; color: #ffffff} /* Name.Attribute */
+  .nb {font: 85% 'Arial', Georgia, serif; color: #ffffff} /* Name.Builtin */
+  .nc {font: 85% 'Arial', Georgia, serif; color: #87e58d} /* Name.Class */
   .no { color: #ffa0a0} /* Name.Constant */
   .nd { color: #ffffff} /* Name.Decorator */
   .ni { color: #ffdead} /* Name.Entity */
