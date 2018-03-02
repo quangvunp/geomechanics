@@ -6,8 +6,8 @@ tags: [software]
 ---
 
 ### Google Sketchup
-# Dùng để thể hiện ý tưởng 3D một cách nhanh chóng và hiệu quả
-# Tham khảo thêm ở trang web: http://sketchup.vn/
+Dùng để thể hiện ý tưởng 3D một cách nhanh chóng và hiệu quả
+Tham khảo thêm ở trang web: http://sketchup.vn/
 
 ### Adobe Indesign
 Dùng để dàn trang khi viết sách Ebook, tạp chí
@@ -31,12 +31,25 @@ Trình editor cho hầu hết các ứng dụng lập trình
 
 ### Anaconda
 Dùng để cài đặt dễ dành Jupyter, Python
+https://anaconda.org/anaconda/python
 
 ### Jekyll + Git
 Dùng để lập trình web tĩnh
+https://jekyllrb.com/
 
 ### Kaleidagrahp
 Dùng để plot dữ liệu
+https://www.hulinks.co.jp/software/stat_graph/kaleida
+
+### iMovie
+Dùng để làm phim từ video đã quay sẵn
+
+### Internet Download Manager
+Dùng để download video 1 cách dễ dàng
+
+### Proshow Producer
+Dùng để làm video từ photos
+http://www.photodex.com/proshow
 
 
 
