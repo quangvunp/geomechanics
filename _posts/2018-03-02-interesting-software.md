@@ -1,9 +1,11 @@
 ----
 layout: post
 title:  "Các phần mềm hữu ích"
-date:   2018-02-26
+date:   2018-03-02
+author: Vu Nguyen
 tags: [software]
 ---
+
 
 ### Google Sketchup
 Dùng để thể hiện ý tưởng 3D một cách nhanh chóng và hiệu quả
