@@ -2,7 +2,7 @@
 layout: post
 title:  "Coding syntax"
 date:   2018-03-06
-tags: [就活]
+tags: [job]
 ---
 
 Xin việc ở Nhật cần chuẩn bị
