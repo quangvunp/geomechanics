@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Coding syntax"
+title:  "Job hunting 1"
 date:   2018-03-06
 tags: [job]
 ---
