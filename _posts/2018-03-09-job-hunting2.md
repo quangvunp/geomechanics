@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "Nhật ký tuyển dụng 2"
-date:   2018-03-09
+date:   2018-03-09
+author: Vu Nguyen
 tags: [job]
 ---
 Đối với sinh viên nước ngoài học bằng tiếng Anh tại Nhật thì quá trình xin việc khá là vất vả so với các sinh viên 
