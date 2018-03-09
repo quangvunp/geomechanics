@@ -17,6 +17,12 @@ Ngoài thông tin tuyển dụng của công ty họ còn giúp ta luyện tập
 quá trình tuyển dụng. Họ giúp ta là vì sau khi ta trúng tuyển họ sẽ nhận được 2-3 tháng lương của ta từ công ty mà
 họ săn đầu người giúp cho. Nên đối với sinh viên quốc tế, chúng ta nên tận dụng những công ty như thế này
 
+Đối với ngành xây dựng, ngoài tiếng Nhật thì các bạn sẽ cần thi SPI, và chuyên ngành (Sức bền vật liệu, cơ học kết cấu,
+cơ học đất, nền móng, thuỷ lực, cơ lưu chất) bằng tiếng Nhật. Nội dung giống với đề thi học kì của các môn học này
+ở trường đại học.
+
+
 Trình độ Nhật ngữ tối thiểu đối với hầu hết các công ty tuyển dụng: N2
+
 
 Nếu học đến trình độ tiến sĩ thì các bạn cũng sẽ khó khăn hơn trong việc ứng tuyển.
