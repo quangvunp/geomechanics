@@ -17,3 +17,6 @@ Ngoài thông tin tuyển dụng của công ty họ còn giúp ta luyện tập
 quá trình tuyển dụng. Họ giúp ta là vì sau khi ta trúng tuyển họ sẽ nhận được 2-3 tháng lương của ta từ công ty mà
 họ săn đầu người giúp cho. Nên đối với sinh viên quốc tế, chúng ta nên tận dụng những công ty như thế này
 
+Trình độ Nhật ngữ tối thiểu đối với hầu hết các công ty tuyển dụng: N2
+
+Nếu học đến trình độ tiến sĩ thì các bạn cũng sẽ khó khăn hơn trong việc ứng tuyển.
