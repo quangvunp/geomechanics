@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Job hunting 1"
+title:  "Nhật kí tuyển dụng 1"
 date:   2018-03-06
 tags: [job]
 ---
