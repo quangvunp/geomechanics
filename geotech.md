@@ -17,10 +17,14 @@ title: Geotechnical Engineering
 
 3) Sức bền vật liệu & cơ học kết cấu
 
+
 4) Bê tông cốt thép:
+[Textbook](https://drive.google.com/drive/folders/1VMCPKCU4n-cZZ_6P3QKxRBV4xHp3WLI4)
 
 5) Thủy lực
 
 6) Cơ lưu chất
+[Textbook](https://drive.google.com/drive/folders/1VMCPKCU4n-cZZ_6P3QKxRBV4xHp3WLI4)
 
 7) Kỹ thuật thi công:
+[Textbook](https://drive.google.com/drive/folders/1HJmGecASx4PsCxlaqKNfJQLz8TaNpFFI)
