@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Nhật ký tuyển dụng 3"
+date:   2018-03-13
+author: Vu Nguyen
+tags: [job]
+---
 
 ** 学生時代力を入れて取り組んだことを記述してください。**
 700文字以下
