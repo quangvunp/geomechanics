@@ -11,7 +11,7 @@ title: Geotechnical Engineering
 
 [Soil mechanics fundamentals](https://drive.google.com/file/d/1xV_BsPy_KEqNbuCej4ZXmPWtTuObS186/view?usp=sharing)
 
-[土質力学ー横浜国立大学]（http://www.cvg.ynu.ac.jp/G3/MamoruKikumoto/lecture.html）
+[土質力学ー横浜国立大学](http://www.cvg.ynu.ac.jp/G3/MamoruKikumoto/lecture.html）
 
 [Elementary Soil Mechanics - Brigham Young University](https://www.youtube.com/watch?v=_arD9SDTK74&list=PLzBZ3hmMnx1KUOu8ZQItF7J2Stdo0tjhG)
 
@@ -19,9 +19,9 @@ title: Geotechnical Engineering
 
 [Earth retaining structure - Angelo State University, Texas](https://www.youtube.com/watch?v=AJQVSTLX0rA&list=PL_ZYN7hwTiZJKHOSC3xiXrSnv4skQk7tp)
 
-[Advanced soil mechanics - Cal Poly Pomona, California)(https://www.youtube.com/watch?v=i3bG4i1eSyw&list=PL_ZYN7hwTiZL-FWFNAXC4F-q3zj20XROb)
+[Advanced soil mechanics - Cal Poly Pomona, California](https://www.youtube.com/watch?v=i3bG4i1eSyw&list=PL_ZYN7hwTiZL-FWFNAXC4F-q3zj20XROb)
 
-[Introduction to geotechnical engineering - Cal Poly Pomoma, California)(https://www.youtube.com/channel/UCyt3w3SogxUSJ7RSxQusXXA/playlists)
+[Introduction to geotechnical engineering - Cal Poly Pomoma, California](https://www.youtube.com/channel/UCyt3w3SogxUSJ7RSxQusXXA/playlists)
 
 
 
