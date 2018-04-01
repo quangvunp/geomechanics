@@ -13,14 +13,20 @@ title: Geotechnical Engineering
 
 [c- Elementary Soil Mechanics](https://www.youtube.com/watch?v=_arD9SDTK74&list=PLzBZ3hmMnx1KUOu8ZQItF7J2Stdo0tjhG)
 
-# Groundwater, Permeability and Seepage - Part 1
+### Groundwater, Permeability and Seepage - Part 1
 [Video](https://www.youtube.com/watch?v=eCUJm5XDTuI)
 
-# Groundwater, Permeability and Seepage - Part 2
+### Groundwater, Permeability and Seepage - Part 2
 [Video](https://www.youtube.com/watch?v=lvIBR8wwyjI)
 
-# Shear strength of soil - Part1
+### Shear strength of soil - Part 1
 [Video](https://www.youtube.com/watch?v=BCFFUK3oVnA&t=277s)
+
+### Shear strength of soil - Part 2
+[Video](https://www.youtube.com/watch?v=BZh8LGCP7ts)
+
+### At-rest, active, and passive earth pressure
+<iframe width="600" height = "400" src="https://www.youtube.com/embed/NqMJVSZzdek" frameborder="0" allowfullscreen></iframe>
 
 2) Nền móng:
 
