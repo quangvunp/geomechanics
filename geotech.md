@@ -26,7 +26,7 @@ title: Geotechnical Engineering
 [Video](https://www.youtube.com/watch?v=BZh8LGCP7ts)
 
 ### At-rest, active, and passive earth pressure
-<iframe width="600" height = "400" src="https://www.youtube.com/embed/NqMJVSZzdek" frameborder="0" allowfullscreen></iframe>
+<iframe width="600" height = "400" src="https://www.youtube.com/embed/RC6-LJphzW4" frameborder="0" allowfullscreen></iframe>
 
 2) Nền móng:
 
