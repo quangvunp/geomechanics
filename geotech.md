@@ -12,6 +12,7 @@ title: Geotechnical Engineering
 [Soil mechanics fundamentals](https://drive.google.com/file/d/1xV_BsPy_KEqNbuCej4ZXmPWtTuObS186/view?usp=sharing)
 
 [Soil mechanics - Yokohama National University](http://www.cvg.ynu.ac.jp/G3/MamoruKikumoto/lecture.html）
+[Soil mechanics - Yokohama National University](http://www.cvg.ynu.ac.jp/G3/MamoruKikumoto/lecture.html)
 
 [Elementary Soil Mechanics - Brigham Young University](https://www.youtube.com/watch?v=_arD9SDTK74&list=PLzBZ3hmMnx1KUOu8ZQItF7J2Stdo0tjhG)
 
