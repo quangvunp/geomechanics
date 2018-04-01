@@ -17,13 +17,16 @@ title: Geotechnical Engineering
 [Video](https://www.youtube.com/watch?v=eCUJm5XDTuI)
 
 ### Groundwater, Permeability and Seepage - Part 2
-[Video](https://www.youtube.com/watch?v=lvIBR8wwyjI)
+<iframe width="600" height = "400" src="https://www.youtube.com/embed/lvIBR8wwyjI" frameborder="0" allowfullscreen></iframe>
+
 
 ### Shear strength of soil - Part 1
 [Video](https://www.youtube.com/watch?v=BCFFUK3oVnA&t=277s)
+<iframe width="600" height = "400" src="https://www.youtube.com/embed/BCFFUK3oVnA&t=277s" frameborder="0" allowfullscreen></iframe>
+
 
 ### Shear strength of soil - Part 2
-[Video](https://www.youtube.com/watch?v=BZh8LGCP7ts)
+<iframe width="600" height = "400" src="https://www.youtube.com/embed/BZh8LGCP7ts" frameborder="0" allowfullscreen></iframe>
 
 ## At-rest, active, and passive earth pressure
 <iframe width="600" height = "400" src="https://www.youtube.com/embed/RC6-LJphzW4" frameborder="0" allowfullscreen></iframe>
