@@ -11,7 +11,16 @@ title: Geotechnical Engineering
 
 [b- Soil mechanics fundamentals](https://drive.google.com/file/d/1xV_BsPy_KEqNbuCej4ZXmPWtTuObS186/view?usp=sharing)
 
-[c- Elementary Soil Mechanics](https://www.youtube.com/watch?v=_arD9SDTK74&list=PLzBZ3hmMnx1KUOu8ZQItF7J2Stdo0tjhG")
+[c- Elementary Soil Mechanics](https://www.youtube.com/watch?v=_arD9SDTK74&list=PLzBZ3hmMnx1KUOu8ZQItF7J2Stdo0tjhG)
+
+# Groundwater, Permeability and Seepage - Part 1
+[Video](https://www.youtube.com/watch?v=eCUJm5XDTuI)
+
+# Groundwater, Permeability and Seepage - Part 2
+[Video](https://www.youtube.com/watch?v=lvIBR8wwyjI)
+
+# Shear strength of soil - Part1
+[Video](https://www.youtube.com/watch?v=BCFFUK3oVnA&t=277s)
 
 2) Nền móng:
 
