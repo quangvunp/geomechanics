@@ -27,25 +27,6 @@ title: Geotechnical Engineering
 
 
 
-### Groundwater, Permeability and Seepage - Part 1
-[Video](https://www.youtube.com/watch?v=eCUJm5XDTuI)
-<iframe width="600" height = "400" src="https://www.youtube.com/embed/eCUJm5XDTuI" frameborder="0" allowfullscreen></iframe>
-
-### Groundwater, Permeability and Seepage - Part 2
-<iframe width="600" height = "400" src="https://www.youtube.com/embed/lvIBR8wwyjI" frameborder="0" allowfullscreen></iframe>
-
-
-### Shear strength of soil - Part 1
-[Video](https://www.youtube.com/watch?v=BCFFUK3oVnA&t=277s)
-<iframe width="600" height = "400" src="https://www.youtube.com/embed/BCFFUK3oVnA&t=277s" frameborder="0" allowfullscreen></iframe>
-
-
-### Shear strength of soil - Part 2
-<iframe width="600" height = "400" src="https://www.youtube.com/embed/BZh8LGCP7ts" frameborder="0" allowfullscreen></iframe>
-
-### At-rest, active, and passive earth pressure
-<iframe width="600" height = "400" src="https://www.youtube.com/embed/RC6-LJphzW4" frameborder="0" allowfullscreen></iframe>
-
 2) Nền móng:
 
 [a- Principles of foundation engineering](https://www.amazon.co.jp/Principles-Foundation-Engineering-Braja-Das/dp/1337705039/ref=sr_1_3?ie=UTF8&qid=1520865607&sr=8-3&keywords=principles+of+foundation+engineering)
