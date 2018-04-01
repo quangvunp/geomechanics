@@ -25,7 +25,7 @@ title: Geotechnical Engineering
 ### Shear strength of soil - Part 2
 [Video](https://www.youtube.com/watch?v=BZh8LGCP7ts)
 
-### At-rest, active, and passive earth pressure
+## At-rest, active, and passive earth pressure
 <iframe width="600" height = "400" src="https://www.youtube.com/embed/RC6-LJphzW4" frameborder="0" allowfullscreen></iframe>
 
 2) Nền móng:
