@@ -793,10 +793,10 @@ nav ul li {
 }
 
 nav ul li a {
-	display: block;
+	display: none ;
 	font-family: arial;
 	color: #222;
-	font-size: 24px;
+	font-size: 14px;
 	padding: 24px 14px;
 	text-decoration: none;
 }
@@ -809,7 +809,7 @@ nav  ul li ul li{
 nav  ul li ul {
 	display: none;
 	position: absolute;
-	background-color: #fff;
+	background-color: #f3f3f3;
 	border-radius: 4px;
 }
 
