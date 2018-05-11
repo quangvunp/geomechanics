@@ -797,15 +797,20 @@ nav ul li a {
 	font-family: arial;
 	color: #222;
 	font-size: 24px;
-	padding: 24px 14 px;
+	padding: 24px 14px;
 	text-decoration: none;
+}
+
+nav  ul li ul li{
+	width: 180px;
+	border-radius: 4px;
 }
 	
 nav  ul li ul {
 	display: none;
 	position: absolute;
 	background-color: #fff;
-	
+	border-radius: 4px;
 }
 
 nav  ul li:hover ul {
@@ -813,7 +818,7 @@ nav  ul li:hover ul {
 }
 	
 nav  ul li ul li a{
-	padding: 8px 14 px;
+	padding: 8px 14px;
 }
 	
 nav  ul li ul li a: hover{
