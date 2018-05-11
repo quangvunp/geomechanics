@@ -808,9 +808,11 @@ nav  ul li ul {
 }
 	
 nav  ul li ul li a{
-	display: block;
-	position: absolute;
-	background-color: #fff;
+	padding: 8px 14 px;
+}
+	
+nav  ul li ul li a: hover{
+	background-color: #f3f3f3;
 }
 /* -------------------------------------------------- 
    article styles
