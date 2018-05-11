@@ -797,20 +797,19 @@ nav ul li a {
 	font-family: arial;
 	color: #222;
 	font-size: 14px;
-	padding: 24px 14px;
 	text-decoration: none;
 }
 
 nav  ul li ul li{
 	width: 180px;
-	border-radius: 4px;
+	border-radius: 10px;
 }
 	
 nav  ul li ul {
 	display: none;
 	position: absolute;
 	background-color: #f3f3f3;
-	border-radius: 4px;
+	border-radius: 10px;
 }
 
 nav  ul li:hover ul {
