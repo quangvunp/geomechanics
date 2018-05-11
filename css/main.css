@@ -802,9 +802,14 @@ nav ul li a {
 }
 	
 nav  ul li ul {
-	display: block;
+	display: none;
 	position: absolute;
 	background-color: #fff;
+	
+}
+
+nav  ul li:hover ul {
+	display: block;
 }
 	
 nav  ul li ul li a{
