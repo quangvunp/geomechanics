@@ -798,11 +798,19 @@ nav ul li a {
 	color: #222;
 	font-size: 24px;
 	padding: 24px 14 px;
+	text-decoration: none;
 }
 	
 nav  ul li ul {
 	display: block;
 	position: absolute;
+	background-color: #fff;
+}
+	
+nav  ul li ul li a{
+	display: block;
+	position: absolute;
+	background-color: #fff;
 }
 /* -------------------------------------------------- 
    article styles
