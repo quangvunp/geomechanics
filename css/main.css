@@ -785,7 +785,19 @@ nav li a:hover {
 	color: white;
 	background: #333;
 }
+	
+nav li ul {
+	float: left;
+	list-style:none;
+}
 
+nav li ul a{
+	display: block
+	font-family: arial;
+	color: #222;
+	font-size: 24px;
+	padding: 24px 14 px;
+}
 /* -------------------------------------------------- 
    article styles
 -----------------------------------------------------*/
