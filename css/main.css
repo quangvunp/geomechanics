@@ -757,6 +757,7 @@ header p {
 nav {
 	background: none;
 	margin-bottom: 2em;
+	background-color: #fff
 }
 #menu-toggle, .toggle-label {
 		display: none;
@@ -784,6 +785,7 @@ nav li a:hover {
 	color: white;
 	background: #333;
 }
+
 /* -------------------------------------------------- 
    article styles
 -----------------------------------------------------*/
