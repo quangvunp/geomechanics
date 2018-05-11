@@ -786,17 +786,23 @@ nav li a:hover {
 	background: #333;
 }
 	
-nav li ul {
+nav ul li {
 	float: left;
-	list-style:none;
+	list-style: none;
+	position: relative;
 }
 
-nav li ul a{
+nav ul li a {
 	display: block;
 	font-family: arial;
 	color: #222;
 	font-size: 24px;
 	padding: 24px 14 px;
+}
+	
+nav  ul li ul {
+	display: block;
+	position: absolute;
 }
 /* -------------------------------------------------- 
    article styles
