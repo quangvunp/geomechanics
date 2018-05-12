@@ -793,7 +793,7 @@ nav ul li {
 }
 
 nav ul li a {
-	display: none ;
+	display: block;
 	font-family: arial;
 	color: #222;
 	font-size: 14px;
