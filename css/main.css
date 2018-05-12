@@ -802,14 +802,14 @@ nav ul li a {
 
 nav  ul li ul li{
 	width: 180px;
-	border-radius: 10px;
+	border-radius: 4px;
 }
 	
 nav  ul li ul {
 	display: none;
 	position: absolute;
 	background-color: #f3f3f3;
-	border-radius: 10px;
+	border-radius: 4px;
 }
 
 nav  ul li:hover ul {
