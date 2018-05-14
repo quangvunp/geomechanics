@@ -794,8 +794,8 @@ nav li a {
 	letter-spacing: 0.1em;
 }
 nav li a:hover {
-	color: white;
-	background: #0f9dc4;
+	color: #000;
+	background: #dadada;
 }
 	
 nav ul li {
