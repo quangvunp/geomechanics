@@ -317,6 +317,7 @@ p {
 a {
 	color: #0362a5;
 	line-height: inherit;
+	font-weight: 800;
 }
 a:hover {
 	color: #213149;
