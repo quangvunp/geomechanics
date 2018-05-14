@@ -8,7 +8,7 @@ border-radius: 3px;
 font: 700, 13px, Helvetica;
 margin-right: 10px;
 box-sizing: border-box;
-color: black;
+color: #666;
 }
 /* Portions of styles taken from or modified from normalize.css */
 /*! normalize.css v3.0.2 | MIT License | git.io/normalize */
@@ -676,7 +676,8 @@ nav li a {
 	width:100%;
 }
 nav li a:hover {
-	color: white;
+	color: #000;
+	background-color: #dadada;
 }
 /*toggle check styles*/
 .toggle-label {
