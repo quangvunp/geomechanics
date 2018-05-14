@@ -6,7 +6,9 @@ background: #e7e7e7;
 border: 1px solid;
 border-radius: 3px;
 font: 700, 13px, Helvetica;
+margin-right: 10px;
 box-sizing: border-box;
+color: black;
 }
 /* Portions of styles taken from or modified from normalize.css */
 /*! normalize.css v3.0.2 | MIT License | git.io/normalize */
@@ -851,7 +853,6 @@ a.more {
 
 	
 	
-
 .comments {
 		width: 70%;
 		margin-left: auto;
