@@ -366,7 +366,8 @@ img, object, embed {
 }
 header {
 	margin-bottom: 2em;
-	background-color: #5c755e
+	background-color: #5c755e;
+	border-radius: 5px	
 }
 header h1 {
 	font-size: 2em;
@@ -374,14 +375,17 @@ header h1 {
 	margin: 0;
 	text-transform: uppercase;
 	color: #0362a5;
-	background-color: #5c755e
+	background-color: #5c755e;
+	border-radius: 5px	
 }
 header p {
 	font: 1em 'Oswald', 'Helvetica Narrow', Arial, sans-serif;
 	font-weight: 400;
 	color: #666;
 	text-transform: uppercase;
-	background-color: #5c755e
+	background-color: #5c755e;
+	border-radius: 5px	
+}
 }
 /* -------------------------------------------------- 
    top navigation styles
