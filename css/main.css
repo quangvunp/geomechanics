@@ -366,7 +366,7 @@ img, object, embed {
 }
 header {
 	margin-bottom: 2em;
-	background-color: #5c755e;
+	background-color: #c7d5e5;
 	border-radius: 5px;
 	text-align: center;
 }
@@ -656,7 +656,7 @@ aside li {
    top navigation styles
 -----------------------------------------------------*/
 nav {
-	background: none;
+	background: #1978e5;
 	margin-bottom: 1em;
 }
 nav ul {
