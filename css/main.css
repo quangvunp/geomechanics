@@ -369,12 +369,13 @@ header {
 	text-align: center;
 }
 
-.main_title {
+header.main_title {
 	margin-bottom: 2em;
 	background-color: #c7d5e5;
 	border-radius: 5px;
 	text-align: center;
 }
+
 
 header h1 {
 	font-size: 2em;
