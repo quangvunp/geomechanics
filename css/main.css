@@ -369,7 +369,7 @@ header {
 	text-align: center;
 }
 
-header.main_title {
+.main_title {
 	margin-bottom: 2em;
 	background-color: #c7d5e5;
 	border-radius: 5px;
