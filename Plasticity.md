@@ -15,7 +15,7 @@ date: 2018-02-23
 
 [Modified Cam Clay Formulation]({{ site.url }}/assests/Notes/Plasticity/4-CamClay_Formulation.PDF)
 
-[Modified Cam Clay Yield Surface]({{ site.url }}/assests/Notes/Plasticity/5_ModifiedCamClay_Yield Surface.PDF)
+[Modified Cam Clay Yield Surface]({{ site.url }}/assests/Notes/Plasticity/5-ModifiedCamClay_Yield Surface.PDF)
 
 [Relationship Derivation]({{ site.url }}/assests/Notes/Plasticity/5b-Relationship_derivation.PDF)
 
