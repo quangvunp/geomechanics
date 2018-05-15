@@ -366,6 +366,7 @@ img, object, embed {
 }
 header {
 	margin-bottom: 2em;
+	background-color: #5c755e
 }
 header h1 {
 	font-size: 2em;
