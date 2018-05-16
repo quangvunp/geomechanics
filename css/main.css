@@ -702,6 +702,7 @@ nav {
 	background: #1978e5;
 	margin-bottom: 1em;
 	text-align: center;
+	padding: 2em;
 }
 nav ul {
 	display: none;
@@ -819,7 +820,7 @@ header p {
    top navigation styles
 -----------------------------------------------------*/
 nav {
-	background: none;
+	background: blue;
 	margin-bottom: 2em;
 	background-color: #fff
 }
