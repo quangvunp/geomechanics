@@ -294,7 +294,7 @@ th {
  body {
 	/*font: 95% 'Arial', Georgia, serif;*/
         font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
-	background: white;
+	background: #eaeded;
 	direction: ltr;
 	text-align: justify;
 }
@@ -315,6 +315,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 p {
 	margin: 0 0 1em 0;
+	line-height:1.5em;
 }
 a {
 	color: #0362a5;
