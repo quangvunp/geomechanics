@@ -408,31 +408,6 @@ header p {
 	
 }
 
-/* -------------------------------------------------- 
-   top navigation styles
------------------------------------------------------*/
-nav.edit_nav {
-	text-align: center;
-}
-
-nav ul.menu{
-	background-color: #6bace5;
-	text-align: center;
-}
-
-nav ul, nav li {
-	padding: 0;
-	margin: 0;
-	list-style: none;
-	min-height: 0;
-}
-
-nav li a {
-	font: 1em 'Oswald', 'Helvetica Narrow', Arial, sans-serif;
-	color: white;
-	text-decoration: none;
-	letter-spacing: 0.1em;
-}
 
 /* -------------------------------------------------- 
    article styles
