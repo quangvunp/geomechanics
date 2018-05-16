@@ -22,8 +22,9 @@ This site was created to help you learn basic knowlege of Geotechnical Engineeri
 </div>
 
 
-<h1> Contact Information </h1>
-<h2> Department of Civil Engineering, Yokohama National University </h2>
+<h1 class="bottom_line"> Contact Information </h1>
+</br>
+Department of Civil Engineering, Yokohama National University 
 
 <h3> Mailing to:</h3>
 <br/>
