@@ -382,9 +382,9 @@ header h1.main_title {
 }
 
 header p.main_title {
-	background-color: #b6f2f9;
 	text-align: center;
 	margin: 10px;
+	font-size: 3em;
 }
 
 header h1 {
