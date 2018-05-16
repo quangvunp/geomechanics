@@ -1,6 +1,8 @@
 
 <span style="color: #0362a5; font-family: Arial; font-size: 1.8em;">**International Conferences**</span> <br />
 
+<h1> International Conference </h1>
+
 [1]  Kikumoto, M., **Nguyen, P. Q. V.**, Yasuhara, H., & Kishida, K. (2017). *Constitutive model for soft rocks considering structural healing and decay*. Computers and Geotechnics, 91, 93-103.
 
 [2]  **Nguyen, P. Q. V.**, Kikumoto M., Yasuhara, H. and Kishida K.: *Critical state modeling of sedimentary rock incorporating healing and decay of rock friction*, 50th U.S. Rock Mechanics Geomechanics Symposium, Paper ID: ARMA 16-115 (9 pages), Houston, USA, July, 2016
