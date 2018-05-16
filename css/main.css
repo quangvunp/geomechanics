@@ -402,7 +402,6 @@ header h1 {
 	font-size: 2em;
 	line-height:1;
 	margin: 0;
-	#text-transform: uppercase;
 	color: #0362a5;		
 }
 header p {
@@ -410,6 +409,8 @@ header p {
 	font-weight: 400;
 	color: #666;
 	text-transform: uppercase;
+	background-image: {{site.url}}/assests/ban.png;
+}
 	
 }
 
