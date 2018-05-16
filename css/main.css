@@ -387,6 +387,7 @@ header h1.main_title {
 	text-align: center;
 	padding: 20px;
 	margin: 10px;
+	background-image: {{site.url}}/assests/cloud.jpg;
 }
 
 header p.main_title {
