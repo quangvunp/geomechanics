@@ -678,6 +678,11 @@ nav ul {
 	display: none;
 	text-align: center;
 }
+	
+nav ul li {
+	text-align: center;	
+	background: green;
+}
 nav li {
 	background: #42659A;
 	margin-bottom: .2em;
