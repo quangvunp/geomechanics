@@ -680,6 +680,7 @@ nav ul {
 nav li {
 	background: #42659A;
 	margin-bottom: .2em;
+	text-align: center;
 }
 nav li:hover {
 	background: #333;
