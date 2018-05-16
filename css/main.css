@@ -671,9 +671,11 @@ aside li {
 nav {
 	background: #1978e5;
 	margin-bottom: 1em;
+	text-align: center;
 }
 nav ul {
 	display: none;
+	text-align: center;
 }
 nav li {
 	background: #42659A;
