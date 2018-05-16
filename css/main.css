@@ -840,6 +840,7 @@ nav ul li {
 	float: left;
 	list-style: none;
 	position: relative;
+	text-align: center;
 }
 
 nav ul li a {
