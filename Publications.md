@@ -17,6 +17,8 @@
 
 <span style="color: #0362a5; font-family: Arial; font-size: 1.8em;">**International Journals**</span> <br />
 
+<h1> International Journals </h1>
+
 [1]  Kikumoto, M., **Nguyen, P. Q. V.**, Yasuhara, H., & Kishida, K. (2017). Constitutive model for soft rocks considering structural healing and decay. *Computers and Geotechnics*, 91, 93-103.
 
 [2]  Kikumoto M. , **Nguyen, P. Q. V.**, Nakamura K.,  David M. W. A novel constitutive model for soil exhibits particle crushing. *Geotéchniques* (in preparation)
