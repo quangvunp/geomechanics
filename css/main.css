@@ -376,10 +376,10 @@ header {
 
 header h1.main_title {
 	background-color: #b6f2f9;
-	border-radius: 10px;
+	border-radius: 5px;
 	text-align: center;
 	padding: 20px;
-	margin: 20px;
+	margin: 10px;
 }
 
 
@@ -388,8 +388,7 @@ header h1 {
 	line-height:1;
 	margin: 0;
 	text-transform: uppercase;
-	color: #0362a5;
-	text-align: center;		
+	color: #0362a5;		
 }
 header p {
 	font: 1em 'Oswald', 'Helvetica Narrow', Arial, sans-serif;
