@@ -1,8 +1,3 @@
----
-layout: page
-title: Family 
----
-
 <h1> Wedding Photos </h1>
 <div style="text-align:center;">
 <iframe width="600" height = "400" src="https://www.youtube.com/embed/cD04qi8gHdA" frameborder="0" allowfullscreen></iframe>
