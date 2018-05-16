@@ -10,7 +10,7 @@ margin-right: 10px;
 box-sizing: border-box;
 color: #666;
 }
-
+/*
 #nav {
 	background-color: darkgreen;
 	height: 50px;
@@ -19,11 +19,19 @@ color: #666;
 	font: Tahoma;
 	text-align: center;
 }
+*/
+#nav {
+    position: absolute;
+    left: 0px;
+    height: 40px;
+    background-color: #2C64B4;
+    width: 100%;
+    text-align: center;
+}
 
 #nav ul {
 	padding: 0;
 	margin: 0;
-	list-style-type: none;
 	text-align: center;
 }
 
