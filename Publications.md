@@ -1,5 +1,5 @@
 
-<span style="color: #0362a5; font-family: Arial; font-size: 1.8em;">**International Conferences**</span> <br />
+<!--<span style="color: #0362a5; font-family: Arial; font-size: 1.8em;">**International Conferences**</span> <br /> -->
 
 <h1> International Conference </h1>
 
@@ -15,7 +15,7 @@
 
 
 
-<span style="color: #0362a5; font-family: Arial; font-size: 1.8em;">**International Journals**</span> <br />
+<!--<span style="color: #0362a5; font-family: Arial; font-size: 1.8em;">**International Journals**</span> <br />-->
 
 <h1> International Journals </h1>
 
