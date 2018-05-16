@@ -13,11 +13,11 @@ color: #666;
 
 #nav {
 	background-color: darkgreen;
-	height: 35px;
-	font-size: 25px;
+	height: 50px;
+	font-size: 12px;
 	font-weight:bold;
 	font: Tahoma;
-	text-align: center
+	text-align: center;
 }
 
 #nav ul {
