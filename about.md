@@ -14,7 +14,7 @@ This site was created to help you learn basic knowlege of Geotechnical Engineeri
 </div>
 <br />
 
-<h1 class="bottom_line"> My graduate school: Yokohama National University>
+<h1 class="bottom_line"> My graduate school: Yokohama National University> </h1>
 
 <div style="text-align:center;">
 <iframe width="600" height = "400" src="https://www.youtube.com/embed/NqMJVSZzdek" frameborder="0" allowfullscreen></iframe>
