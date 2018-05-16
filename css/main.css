@@ -10,6 +10,27 @@ margin-right: 10px;
 box-sizing: border-box;
 color: #666;
 }
+
+#nav{
+	background-color: darkgreen;
+	height: 35px;
+	font-size: 25px;
+	font-weight:bold;
+	font: Tahoma;
+}
+
+#nav ul {
+	padding: 0;
+	margin: 0;
+	list-style-type: none;
+	text-align: center;
+}
+
+#nav li {
+	display: inline;
+	padding: 15px;
+	vertilca-align: middle;
+}
 /* Portions of styles taken from or modified from normalize.css */
 /*! normalize.css v3.0.2 | MIT License | git.io/normalize */
 /**
