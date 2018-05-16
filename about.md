@@ -1,4 +1,4 @@
-<h1 class="bottom_underline"> About me </h1>
+<h1 class="bottom_line"> About me </h1>
 
 ![Picture1]({{ site.url }}/assests/pictures/family/About.jpg){:width="70%"}
 
@@ -6,7 +6,7 @@ My name is Nguyen Pham Quang Vu. I am a PhD student in Geotechnical Engineering 
 This site was created to help you learn basic knowlege of Geotechnical Engineering and Finite Element Method
 
 
-<h1 class="bottom_underline"> My bachelor school: Ho Chi Minh City University of Technology</h1>
+<h1 class="bottom_line"> My bachelor school: Ho Chi Minh City University of Technology</h1>
 
 <div style="text-align:center;">
 <iframe width="600" height = "400" src="https://www.youtube.com/embed/6bwXksy4Gxs" frameborder="0" allowfullscreen></iframe>
@@ -14,7 +14,7 @@ This site was created to help you learn basic knowlege of Geotechnical Engineeri
 </div>
 <br />
 
-<h1 class="bottom_underline"> My graduate school: Yokohama National University>
+<h1 class="bottom_line"> My graduate school: Yokohama National University>
 
 <div style="text-align:center;">
 <iframe width="600" height = "400" src="https://www.youtube.com/embed/NqMJVSZzdek" frameborder="0" allowfullscreen></iframe>
