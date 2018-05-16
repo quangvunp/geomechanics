@@ -822,7 +822,8 @@ header p {
 nav {
 	background: blue;
 	margin-bottom: 2em;
-	background-color: #fff
+	/*background-color: #fff; */
+	text-align: center
 }
 #menu-toggle, .toggle-label {
 		display: none;
