@@ -366,7 +366,7 @@ img, object, embed {
 }
 
 .menu{
-	background-color: #b6f2f9;
+	background-color: #6bace5;
 	text-align: center;
 }
 header {
@@ -381,6 +381,11 @@ header h1.main_title {
 	margin: 10px;
 }
 
+header p.main_title {
+	background-color: #b6f2f9;
+	text-align: center;
+	margin: 10px;
+}
 
 header h1 {
 	font-size: 2em;
@@ -393,7 +398,8 @@ header p {
 	font: 1em 'Oswald', 'Helvetica Narrow', Arial, sans-serif;
 	font-weight: 400;
 	color: #666;
-	text-transform: uppercase;	
+	text-transform: uppercase;
+	
 }
 
 /* -------------------------------------------------- 
