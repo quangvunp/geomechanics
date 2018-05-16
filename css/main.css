@@ -364,6 +364,11 @@ img, object, embed {
 .page-header {
 	padding: 1em 1em 0;
 }
+
+.menu{
+	background-color: #b6f2f9;
+	text-align: center;
+}
 header {
 	margin-bottom: 2em;
 	text-align: center;
