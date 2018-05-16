@@ -374,7 +374,7 @@ header {
 	text-align: center;
 }
 
-header.main_title {
+header h1.main_title {
 	background-color: #b6f2f9;
 	border-radius: 10px;
 	text-align: center;
