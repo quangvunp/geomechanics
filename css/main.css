@@ -678,12 +678,12 @@ nav {
 }
 nav ul {
 	display: none;
-	text-align: center;
+	display: inline-block;
 }
 	
 nav ul li {
 	text-align: center;	
-	background: green;
+	background: none;
 }
 nav li {
 	background: #42659A;
