@@ -1,6 +1,61 @@
 /* add syntax highlight styles */
 @import url("syntax-highlighting.css");
 
+	
+#header {
+	background-color: #5c755e;
+	margin: 10px;
+	height: 90px;
+	border-radius: 5px
+}
+
+
+#navbar ul {
+	background-color: black;
+	list-style-type: none;
+	text-align: center;
+	margin: 10px;
+	border-radius: 5px;
+	padding: 15px;
+}
+
+#navbar ul li {
+	display: inline;
+}
+
+#navbar ul li a {
+	text-decoration: none;
+	font-family: Arial;
+	padding: .2em 2em;
+	color: #fff;
+	background-color: #000;
+}
+
+#navbar ul li a:hover {
+	text-decoration: none;
+	font-family: Arial;
+	padding: .5em 2em;
+	color: red;
+	background-color: white;
+	border-radius: 6px;
+}
+
+	
+h6 {
+	font-size: 250%;
+	text-align: center;
+	color: white;
+	font-family: Arial;
+	margin: 0px;
+
+	position: relative;
+		top: 50%;	
+		-webkit-transform: translateY(-50%):
+		-ms-transform: translateY(-50%);
+		transform: translateY(-50%);
+
+}
+
 .button {
 background: #e7e7e7;
 border: 1px solid;
@@ -898,57 +953,3 @@ a.more {
   text-align: justify;
 }
 
-	
-#header {
-	background-color: #5c755e;
-	margin: 10px;
-	height: 90px;
-	border-radius: 5px
-}
-
-
-#navbar ul {
-	background-color: black;
-	list-style-type: none;
-	text-align: center;
-	margin: 10px;
-	border-radius: 5px;
-	padding: 15px;
-}
-
-#navbar ul li {
-	display: inline;
-}
-
-#navbar ul li a {
-	text-decoration: none;
-	font-family: Arial;
-	padding: .2em 2em;
-	color: #fff;
-	background-color: #000;
-}
-
-#navbar ul li a:hover {
-	text-decoration: none;
-	font-family: Arial;
-	padding: .5em 2em;
-	color: red;
-	background-color: white;
-	border-radius: 6px;
-}
-
-	
-h6 {
-	font-size: 250%;
-	text-align: center;
-	color: white;
-	font-family: Arial;
-	margin: 0px;
-
-	position: relative;
-		top: 50%;	
-		-webkit-transform: translateY(-50%):
-		-ms-transform: translateY(-50%);
-		transform: translateY(-50%);
-
-}
