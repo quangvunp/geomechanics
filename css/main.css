@@ -37,8 +37,8 @@
 #navbar ul li a:hover {
 	text-decoration: none;
 	font-family: Arial;
-	padding: .5em 2em;
-	color: red;
+	padding: .5em 1.5em;
+	color: black;
 	background-color: white;
 	border-radius: 6px;
 	/*display: block;*/
