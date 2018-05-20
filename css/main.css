@@ -3,10 +3,12 @@
 
 	
 #header {
-	background-color: #5c755e;
+	background-color: red/* #5c755e; */;
 	margin: 10px;
 	height: 90px;
 	border-radius: 5px;
+	background-image: url(cloud.jpg);
+
 }
 
 
