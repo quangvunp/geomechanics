@@ -21,7 +21,7 @@
 	text-align: center;
 	margin: 0px;
 	border-radius: 5px;
-	padding: 10px;
+	padding: 5px;
 	
 }
 
@@ -32,7 +32,7 @@
 #navbar ul li a {
 	text-decoration: none;
 	font-family: Arial;
-	padding: .5em 1.0em;
+	padding: .5em 1.5em;
 	color: #fff;
 	background-color: #000;
 }
@@ -40,7 +40,7 @@
 #navbar ul li a:hover {
 	text-decoration: none;
 	font-family: Arial;
-	padding: .5em 1.0em;
+	padding: .5em 1.5em;
 	color: black;
 	background-color: white;
 	border-radius: 6px;
