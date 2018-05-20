@@ -35,6 +35,10 @@
 	position: absolute;
 }
 
+#navbar ul li ul li a {
+	padding: 8px 14px;
+}
+
 #navbar ul li a {
 	text-decoration: none;
 	font-size: 125%;
