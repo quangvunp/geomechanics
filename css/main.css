@@ -30,13 +30,28 @@
 	position: relative;
 }
 
-#navbar ul li ul {
-	display: inline-block;
-	position: absolute;
+#navbar ul li:hover ul {
+	display: block;
+
 }
+
+#navbar ul li ul {
+	display: none
+	position: absolute;
+	border-radius: 0x 0x 4px 4px;
+}
+
+
+#navbar ul li ul li  {
+	width: 180px;
+	
 
 #navbar ul li ul li a {
 	padding: 8px 14px;
+}
+
+#navbar ul li ul li a:hover {
+	color: blue;
 }
 
 #navbar ul li a {
