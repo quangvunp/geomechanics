@@ -39,7 +39,7 @@
 	text-decoration: none;
 	font-family: Arial;
 	padding: .5em 1.5em;
-	color: blue; /* #fff;*/
+	color: #fff ; /* #fff;*/
 	background-color: #000;
 	display: block;
 }
