@@ -35,7 +35,7 @@
 	padding: .5em 1.5em;
 	color: #fff;
 	background-color: #000;
-	display: inline-block;
+	display: block;
 }
 
 #navbar ul li a:hover {
