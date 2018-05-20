@@ -51,7 +51,8 @@
 }
 
 #navbar ul li ul li a:hover {
-	color: blue;
+	color: black;
+	background-color: white;
 }
 
 #navbar ul li a {
