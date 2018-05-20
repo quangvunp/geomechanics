@@ -36,7 +36,7 @@
 }
 
 #navbar ul li ul {
-	display: none
+	display: none；
 	position: absolute;
 	border-radius: 0x 0x 4px 4px;
 }
@@ -44,7 +44,7 @@
 
 #navbar ul li ul li  {
 	width: 180px;
-	
+}
 
 #navbar ul li ul li a {
 	padding: 8px 14px;
