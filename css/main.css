@@ -27,6 +27,12 @@
 
 #navbar ul li {
 	display: inline-block;
+	position: relative;
+}
+
+#navbar ul li ul {
+	display: inline-block;
+	position: absolute;
 }
 
 #navbar ul li a {
