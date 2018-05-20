@@ -4,19 +4,20 @@
 	
 #header {
 	background-color: #5c755e;
-	margin: 10px;
+	margin: 0px;
 	height: 90px;
-	border-radius: 5px
+	border-radius: 0px;
 }
 
 
 #navbar ul {
-	background-color: black;
+	background-color: blue;
 	list-style-type: none;
 	text-align: center;
-	margin: 10px;
-	border-radius: 5px;
+	margin: 0px;
+	border-radius: 0px;
 	padding: 15px;
+	display: inline-block;
 }
 
 #navbar ul li {
@@ -38,6 +39,7 @@
 	color: red;
 	background-color: white;
 	border-radius: 6px;
+	display: block;
 }
 
 	
