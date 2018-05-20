@@ -9,14 +9,14 @@
 	margin: 0px;
 	height: 90px;
 	border-radius: 0px;
-	background-image: url("{ site.baseurl }}/cloud.jpg");
+	/*background-image: url("{ site.baseurl }}/cloud.jpg");*/
 }
 
 /* -------------------------------------------------- 
    top navigation styles
 -----------------------------------------------------*/
 #navbar ul {
-	background-color: green;
+	background-color: red;
 	list-style-type: none;
 	text-align: center;
 	margin: 0px;
