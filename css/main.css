@@ -24,21 +24,21 @@
 	padding: 8px;
 	
 }
-
+/*
 #navbar ul li {
 	display: inline-block;
 	position: relative;
 }
-
-#navbar ul li:hover ul {
-	display: block;
-
-}
+*/
 
 #navbar ul li ul {
 	display: none；
 	position: absolute;
 	border-radius: 0x 0x 4px 4px;
+}
+
+#navbar ul li:hover ul {
+	display:block;
 }
 
 
