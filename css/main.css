@@ -26,7 +26,7 @@
 }
 
 #navbar ul li {
-	display: inline;
+	display: inline-block;
 }
 
 #navbar ul li a {
