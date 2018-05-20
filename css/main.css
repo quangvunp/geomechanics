@@ -37,6 +37,7 @@
 
 #navbar ul li a {
 	text-decoration: none;
+	font-size: 150%;
 	font-family: Arial;
 	padding: .5em 1.5em;
 	color: #fff ; /* #fff;*/
