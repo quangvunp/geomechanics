@@ -9,7 +9,7 @@
 	margin: 0px;
 	height: 90px;
 	border-radius: 0px;
-	background-image: url({{ site.baseurl }}/cloud.jpg);
+	background-image: url("{ site.baseurl }}/cloud.jpg");
 }
 
 /* -------------------------------------------------- 
