@@ -4,11 +4,10 @@
 	
 #header {
 	background-color: green/* #5c755e; */;
-	margin: 0px;
+	margin: 5px;
 	height: 90px;
 	border-radius: 0px;
 	background-image: url({{ site.baseurl }}/cloud.jpg);
-
 }
 
 
@@ -29,7 +28,7 @@
 #navbar ul li a {
 	text-decoration: none;
 	font-family: Arial;
-	padding: .2em 2em;
+	padding: .5em 1.0em;
 	color: #fff;
 	background-color: #000;
 }
