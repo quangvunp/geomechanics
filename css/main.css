@@ -16,7 +16,7 @@
    top navigation styles
 -----------------------------------------------------*/
 #navbar ul {
-	background-color: #000;
+	background-color: blue;/*#000;*/
 	list-style-type: none;
 	text-align: center;
 	margin: 0px;
