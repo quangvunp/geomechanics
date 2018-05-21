@@ -47,4 +47,9 @@ Trước tiên, tôi sẽ nhanh chóng tìm hiểu thật kỹ phương hướng
 Từ đó tìm và học các kỹ năng, kiến thức cần thiết để đạt được những mục tiêu đó. Thông qua việc phát huy kiến thức đó, 
 tôi sẽ phát triển bản thân cùng với sự lớn mạnh của công ty
 
-4)
+4) Trong tương lai bạn muốn sống ở Nhật hay Việt Nam? Vì sao?
+
+Trả lời:
+Tôi muốn sống ở Nhật. Tôi đã được đào tạo 5 năm tại Nhật nên đã quen và  với văn hoá của Nhật. Ngoài  ra 
+vợ tôi cũng đang ở Nhật và rất giỏi tiếng Nhật, nên cả 2 có thể sống và làm việc thoải mái ở Nhật. Hơn nữa tôi muốn
+cho con tôi được hưởng nền giáo dục Nhật 
