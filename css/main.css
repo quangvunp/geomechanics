@@ -47,7 +47,7 @@
 }
 
 #navbar ul li ul li a {
-	padding: 8px 14px;
+	padding: 4px 8px;
 }
 
 #navbar ul li ul li a:hover {
@@ -57,9 +57,9 @@
 
 #navbar ul li a {
 	text-decoration: none;
-	font-size: 125%;
+	font-size: 110%;
 	font-family: Arial;
-	padding: .5em 1.5em;
+	padding: .5em 1.0em;
 	color: #fff ; /* #fff;*/
 	background-color: #000;
 	display: block;
@@ -68,7 +68,7 @@
 #navbar ul li a:hover {
 	text-decoration: none;
 	font-family: Arial;
-	padding: .5em 1.5em;
+	padding: .5em 1.0em;
 	color: black;
 	background-color: white;
 	border-radius: 6px;
