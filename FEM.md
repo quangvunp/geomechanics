@@ -17,3 +17,7 @@ title: Finite Element Method
 
 
 
+[Type in Julia]({{ site.url }}/assests/How to conduct FE simulations with JFEM.ipynb)
+
+
+
