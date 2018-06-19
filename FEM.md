@@ -3,14 +3,14 @@ layout: page
 title: Finite Element Method 
 ---
 
-1- Finite Difference Method Concept
+<h1> 1- Finite Difference Method Concept </h1>
 [Simple FDM 1D problem]({{ site.url }}/assests/Notes/FEM/FDM_1D.PDF)
 
-2- Finite Element Method Concept
+<h1> 2- Finite Element Method Concept </h1>
 [Simple FEM 1D problem]({{ site.url }}/assests/Notes/FEM/FEM_1D_Concept.PDF)
 
 
-3- Divergence Theorem
+<h1> 3- Divergence Theorem </h1>
 
 [Divergence](https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/divergence-and-curl-articles/a/divergence)
 
