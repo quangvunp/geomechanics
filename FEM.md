@@ -24,12 +24,12 @@ title: Finite Element Method
 
 [3D Divergence Theorem](https://www.khanacademy.org/math/multivariable-calculus/greens-theorem-and-stokes-theorem/divergence-theorem-articles/a/3d-divergence-theorem)
 
-4- Numerical Integration
+<h1> 4- Numerical Integration </h1>
 [Gauss Quadrature Integration]({{ site.url }}/assests/Notes/FEM/Gauss_quadrature_integration.PDF)
 
 [Video lecture] (https://www.youtube.com/watch?v=uxQCjeo955o&t=2105s)
 
-5- Volumetric locking
+<h1> 5- Volumetric locking </h1>
 [Volumetric locking]({{ site.url }}/assests/Notes/FEM/Volumetric_Locking/Volumetric_Locking.PDF)
 
 [Selective Reduced Integration]({{ site.url }}/assests/Notes/FEM/Volumetric_Locking/Selective_Reduced.PDF)
@@ -39,6 +39,7 @@ title: Finite Element Method
 [Finite Element Method BBAR approach]({{ site.url }}/assests/Notes/FEM/Volumetric_Locking/B-bar.PDF)
 
 
+<h1> JULIA PROGRAMMING </h1>
 [1) Julia tutorial- Type](https://github.com/quangvunp/geomechanics/blob/master/assests/Julia_TYPE.ipynb)
 
 
