@@ -10,7 +10,7 @@ Simple FDM 1D problem [view]({{ site.url }}/assests/Notes/FEM/FDM_1D.PDF)
 Simple FEM 1D problem [view]({{ site.url }}/assests/Notes/FEM/FEM_1D_Concept.PDF)
 
 <h1> 2.1- Strong form to weak form </h1>
-Deformation problem [view]({{ site.url }}/assests/Notes/FEM/Strongform-weakform.PDF)
+Deformation problem [view]({{ site.url }}/assests/Notes/FEM/Strongform-weakform.pdf)
 
 <h1> 3- Divergence Theorem </h1> 
 Divergence [view](https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/divergence-and-curl-articles/a/divergence)
