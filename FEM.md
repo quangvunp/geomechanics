@@ -28,7 +28,7 @@ Green Theorem [view](https://www.khanacademy.org/math/multivariable-calculus/gre
 <h1> 4- Numerical Integration </h1>
 Gauss Quadrature Integration [view]({{ site.url }}/assests/Notes/FEM/Gauss_quadrature_integration.PDF)
 
-Video lecture [view] (https://www.youtube.com/watch?v=uxQCjeo955o&t=2105s)
+Video lecture [view](https://www.youtube.com/watch?v=uxQCjeo955o&t=2105s)
 
 <h1> 5- Volumetric locking </h1>
 Volumetric locking [view]({{ site.url }}/assests/Notes/FEM/Volumetric_Locking/Volumetric_Locking.PDF)
