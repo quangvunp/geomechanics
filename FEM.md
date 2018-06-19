@@ -4,43 +4,43 @@ title: Finite Element Method
 ---
 
 <h1> 1- Finite Difference Method Concept </h1>
-[Simple FDM 1D problem]({{ site.url }}/assests/Notes/FEM/FDM_1D.PDF)
+Simple FDM 1D problem [view]({{ site.url }}/assests/Notes/FEM/FDM_1D.PDF)
 
 <h1> 2- Finite Element Method Concept </h1>
-[Simple FEM 1D problem]({{ site.url }}/assests/Notes/FEM/FEM_1D_Concept.PDF)
+Simple FEM 1D problem [view]({{ site.url }}/assests/Notes/FEM/FEM_1D_Concept.PDF)
 
 
 <h1> 3- Divergence Theorem </h1>
 
-[Divergence](https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/divergence-and-curl-articles/a/divergence)
+Divergence [view](https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/divergence-and-curl-articles/a/divergence)
 
-[Flux in 2D](https://www.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/line-integrals-in-vector-fields-articles/a/flux-in-two-dimensions)
+Flux in 2D [view](https://www.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/line-integrals-in-vector-fields-articles/a/flux-in-two-dimensions)
 
-[Formal definition of divergence](https://www.khanacademy.org/math/multivariable-calculus/greens-theorem-and-stokes-theorem/formal-definitions-of-divergence-and-curl/a/formal-definition-of-divergence-in-two-dimensions)
+Formal definition of divergence [view](https://www.khanacademy.org/math/multivariable-calculus/greens-theorem-and-stokes-theorem/formal-definitions-of-divergence-and-curl/a/formal-definition-of-divergence-in-two-dimensions)
 
-[Green Theorem](https://www.khanacademy.org/math/multivariable-calculus/greens-theorem-and-stokes-theorem/greens-theorem-articles/a/greens-theorem)
+Green Theorem [view](https://www.khanacademy.org/math/multivariable-calculus/greens-theorem-and-stokes-theorem/greens-theorem-articles/a/greens-theorem)
 
-[2D Divergence Theorem](https://www.khanacademy.org/math/multivariable-calculus/greens-theorem-and-stokes-theorem/divergence-theorem-articles/a/2d-divergence-theorem)
+2D Divergence Theorem [view](https://www.khanacademy.org/math/multivariable-calculus/greens-theorem-and-stokes-theorem/divergence-theorem-articles/a/2d-divergence-theorem)
 
-[3D Divergence Theorem](https://www.khanacademy.org/math/multivariable-calculus/greens-theorem-and-stokes-theorem/divergence-theorem-articles/a/3d-divergence-theorem)
+3D Divergence Theorem [view](https://www.khanacademy.org/math/multivariable-calculus/greens-theorem-and-stokes-theorem/divergence-theorem-articles/a/3d-divergence-theorem)
 
 <h1> 4- Numerical Integration </h1>
-[Gauss Quadrature Integration]({{ site.url }}/assests/Notes/FEM/Gauss_quadrature_integration.PDF)
+Gauss Quadrature Integration [view]({{ site.url }}/assests/Notes/FEM/Gauss_quadrature_integration.PDF)
 
-[Video lecture] (https://www.youtube.com/watch?v=uxQCjeo955o&t=2105s)
+Video lecture [view] (https://www.youtube.com/watch?v=uxQCjeo955o&t=2105s)
 
 <h1> 5- Volumetric locking </h1>
-[Volumetric locking]({{ site.url }}/assests/Notes/FEM/Volumetric_Locking/Volumetric_Locking.PDF)
+Volumetric locking [view]({{ site.url }}/assests/Notes/FEM/Volumetric_Locking/Volumetric_Locking.PDF)
 
-[Selective Reduced Integration]({{ site.url }}/assests/Notes/FEM/Volumetric_Locking/Selective_Reduced.PDF)
+Selective Reduced Integration [view]({{ site.url }}/assests/Notes/FEM/Volumetric_Locking/Selective_Reduced.PDF)
 
-[Uniform Reduced Integration]({{ site.url }}/assests/Notes/FEM/Volumetric_Locking/Uniform_Reduced_Integration.PDF)
+Uniform Reduced Integration [view]({{ site.url }}/assests/Notes/FEM/Volumetric_Locking/Uniform_Reduced_Integration.PDF)
 
-[Finite Element Method BBAR approach]({{ site.url }}/assests/Notes/FEM/Volumetric_Locking/B-bar.PDF)
+Finite Element Method BBAR approach [view]({{ site.url }}/assests/Notes/FEM/Volumetric_Locking/B-bar.PDF)
 
 
 <h1> JULIA PROGRAMMING </h1>
-[1) Julia tutorial- Type](https://github.com/quangvunp/geomechanics/blob/master/assests/Julia_TYPE.ipynb)
+1) Julia tutorial- Type [view](https://github.com/quangvunp/geomechanics/blob/master/assests/Julia_TYPE.ipynb)
 
 
 
