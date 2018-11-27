@@ -7,14 +7,16 @@ title: Finite Element Method
 Simple FDM 1D problem [view]({{ site.url }}/assests/Notes/FEM/FDM_1D.PDF)
 
 <h1> 2- Finite Element Method Concept </h1>
-Simple FEM 1D problem [view]({{ site.url }}/assests/Notes/FEM/FEM_1D_Concept.PDF)
+Simple FEM 1D problem [view]({{ site.url }}/assests/Notes/FEM/Fem1D.PDF)
 
 <h1> 2.1- Strong form to weak form </h1>
-Deformation problem [view]({{ site.url }}/assests/Notes/FEM/StrongWeak.pdf)
-Deformation problem [view]({{ site.url }}/assests/Notes/FEM/Strongform-weakform.pdf)
+Deformation problem [view]({{ site.url }}/assests/Notes/FEM/2_StrongToWeakForm-SmallStrain.pdf)
 
 <h1> 2.2- Integration by part in 2D/3D </h1>
 Integration by part in 2D/3D [view]({{ site.url }}/assests/Notes/FEM/IntegrationByParts.pdf)
+
+<h1> Shape Function </h1>
+Shape function of 1D, triangle element [view]({{ site.url }}/assests/Notes/FEM/ShapeFunction.pdf)
 
 <h1> 3- Divergence Theorem </h1> 
 Divergence [view](https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/divergence-and-curl-articles/a/divergence)
