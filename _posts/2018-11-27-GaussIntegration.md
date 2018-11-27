@@ -29,9 +29,9 @@ using LinearAlgebra;
 
 
 
-#------------------------------------------------------------------------------
-# function gauss_integration(nGauss, dim)
-#------------------------------------------------------------------------------
+# ------------------------------------------------------------------------------
+ function gauss_integration(nGauss, dim)
+# ------------------------------------------------------------------------------
 # PURPOSE:
 #     Determine Gauss point's coordinate and the corresponding Gauss weight
 # SYNTAX:
@@ -41,16 +41,15 @@ using LinearAlgebra;
 #     dim   : dimension of the problem (dim = 1 or dim = 2 or dim = 3)
 # OUPUT:
 #      gausspoint_coordinate: The Gauss point's coordinate
- #     gausspoint_weight: The Gauss point's weight
+#     gausspoint_weight: The Gauss point's weight
 #------------------------------------------------------------------------------
 
 # Initiate gausspoint_coordinate and gausspoint_weight
    gausspoint_coordinate = zeros(nGauss^dim, dim)
    gausspoint_weight = Float64[];
 
-#******** the integration domain is [-1 1] for all of direction:***************
-
-    #------------- Limit the number of Gauss point up to 5 --------------------
+#  the integration domain is [-1 1] for all of direction:
+    # ------------- Limit the number of Gauss point up to 5 --------------------
     if (nGauss > 5)
         println("The number of Gauss point shouldn't be more than 5")
     end
