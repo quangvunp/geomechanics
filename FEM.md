@@ -3,10 +3,10 @@ layout: page
 title: Finite Element Method 
 ---
 
-<h1> 1- Finite Difference Method Concept </h1>
+<h1> Finite Difference Method Concept </h1>
 Simple FDM 1D problem [view]({{ site.url }}/assests/Notes/FEM/FDM_1D.PDF)
 
-<h1> 2- Finite Element Method Concept </h1>
+<h1> Finite Element Method Concept </h1>
 Simple FEM 1D problem [view]({{ site.url }}/assests/Notes/FEM/Fem1D.PDF)
 
 
@@ -17,7 +17,7 @@ Strong form of small strain problem [view]({{ site.url }}/assests/Notes/FEM/1_St
 Deformation problem [view]({{ site.url }}/assests/Notes/FEM/2_StrongToWeakForm-SmallStrain.pdf)
 
 <h1> Discrete weak form </h1>
-Discrete weak form of small strain problem [view]({{ site.url }}/assests/Notes/FEM/DiscreteWeakForm-GlobalStiffnessMatrix.pdf.pdf)
+Discrete weak form of small strain problem [view]({{ site.url }}/assests/Notes/FEM/DiscreteWeakForm-GlobalStiffnessMatrix.pdf)
 
 <h1> Integration by part in 2D/3D </h1>
 Integration by part in 2D/3D [view]({{ site.url }}/assests/Notes/FEM/IntegrationByParts.pdf)
@@ -27,7 +27,7 @@ Shape function of 1D, triangle element [view]({{ site.url }}/assests/Notes/FEM/S
 
 
 <h1> Numerical Integration </h1>
-Gauss Quadrature Integration [view]({{ site.url }}/assests/Notes/FEM/GaussIntegration.PDF)
+Gauss Quadrature Integration [view]({{ site.url }}/assests/Notes/FEM/GaussIntegration.pdf	)
 
 <h1> Divergence Theorem </h1> 
 Divergence [view](https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/divergence-and-curl-articles/a/divergence)
