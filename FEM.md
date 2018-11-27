@@ -30,7 +30,7 @@ Green Theorem [view](https://www.khanacademy.org/math/multivariable-calculus/gre
 3D Divergence Theorem [view](https://www.khanacademy.org/math/multivariable-calculus/greens-theorem-and-stokes-theorem/divergence-theorem-articles/a/3d-divergence-theorem)
 
 <h1> 4- Numerical Integration </h1>
-Gauss Quadrature Integration [view]({{ site.url }}/assests/Notes/FEM/Gauss_quadrature_integration.PDF)
+Gauss Quadrature Integration [view]({{ site.url }}/assests/Notes/FEM/Gauss integration.PDF)
 
 Video lecture [view](https://www.youtube.com/watch?v=uxQCjeo955o&t=2105s)
 
