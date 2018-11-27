@@ -26,7 +26,12 @@ Shape function of 1D, triangle element [view]({{ site.url }}/assests/Notes/FEM/S
 
 <h1> Numerical Integration </h1>
 Gauss Quadrature Integration [view]({{ site.url }}/assests/Notes/FEM/GaussIntegration.pdf)
+
+
 https://github.com/quangvunp/geomechanics/blob/master/assests/Notes/FEM/GaussIntegration.ipynb
+
+
+
 
 <h1> Divergence Theorem </h1> 
 Divergence [view](https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/divergence-and-curl-articles/a/divergence)
