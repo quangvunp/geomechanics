@@ -30,7 +30,7 @@ using LinearAlgebra;
 
 
 #------------------------------------------------------------------------------
-function gauss_integration(nGauss, dim)
+# function gauss_integration(nGauss, dim)
 #------------------------------------------------------------------------------
 # PURPOSE:
 #     Determine Gauss point's coordinate and the corresponding Gauss weight
@@ -41,7 +41,7 @@ function gauss_integration(nGauss, dim)
 #     dim   : dimension of the problem (dim = 1 or dim = 2 or dim = 3)
 # OUPUT:
 #      gausspoint_coordinate: The Gauss point's coordinate
-#      gausspoint_weight: The Gauss point's weight
+ #     gausspoint_weight: The Gauss point's weight
 #------------------------------------------------------------------------------
 
 # Initiate gausspoint_coordinate and gausspoint_weight
