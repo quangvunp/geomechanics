@@ -7,6 +7,10 @@ title: Finite Element Method
 Simple FEM 1D problem [view]({{ site.url }}/assests/Notes/FEM/Fem1D.pdf)
 
 
+
+<h1> Notebook </h1>
+Simple FEM 1D problem [view]({{ site.url }}/assests/Notes/FEM/Julia_TYPE.ipynb)
+
 <h1> Strong form</h1>
 Strong form of small strain problem [view]({{ site.url }}/assests/Notes/FEM/1_StrongForm_SmallStrain.pdf)
 
