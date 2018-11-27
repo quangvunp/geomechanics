@@ -7,7 +7,7 @@ title: Finite Element Method
 Simple FDM 1D problem [view]({{ site.url }}/assests/Notes/FEM/FDM_1D.PDF)
 
 <h1> Finite Element Method Concept </h1>
-Simple FEM 1D problem [view]({{ site.url }}/assests/Notes/FEM/Fem1D.PDF)
+Simple FEM 1D problem [view]({{ site.url }}/assests/Notes/FEM/Fem1D.pdf)
 
 
 <h1> Strong form</h1>
@@ -27,7 +27,7 @@ Shape function of 1D, triangle element [view]({{ site.url }}/assests/Notes/FEM/S
 
 
 <h1> Numerical Integration </h1>
-Gauss Quadrature Integration [view]({{ site.url }}/assests/Notes/FEM/GaussIntegration.pdf	)
+Gauss Quadrature Integration [view]({{ site.url }}/assests/Notes/FEM/GaussIntegration.pdf)
 
 <h1> Divergence Theorem </h1> 
 Divergence [view](https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/divergence-and-curl-articles/a/divergence)
