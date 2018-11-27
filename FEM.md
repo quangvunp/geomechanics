@@ -3,9 +3,6 @@ layout: page
 title: Finite Element Method 
 ---
 
-<h1> Finite Difference Method Concept </h1>
-Simple FDM 1D problem [view]({{ site.url }}/assests/Notes/FEM/FDM_1D.PDF)
-
 <h1> Finite Element Method Concept </h1>
 Simple FEM 1D problem [view]({{ site.url }}/assests/Notes/FEM/Fem1D.pdf)
 
@@ -18,9 +15,6 @@ Deformation problem [view]({{ site.url }}/assests/Notes/FEM/2_StrongToWeakForm-S
 
 <h1> Discrete weak form </h1>
 Discrete weak form of small strain problem [view]({{ site.url }}/assests/Notes/FEM/DiscreteWeakForm-GlobalStiffnessMatrix.pdf)
-
-<h1> Integration by part in 2D/3D </h1>
-Integration by part in 2D/3D [view]({{ site.url }}/assests/Notes/FEM/IntegrationByParts.pdf)
 
 <h1> Shape Function </h1>
 Shape function of 1D, triangle element [view]({{ site.url }}/assests/Notes/FEM/ShapeFunction.pdf)
@@ -43,6 +37,8 @@ Green Theorem [view](https://www.khanacademy.org/math/multivariable-calculus/gre
 3D Divergence Theorem [view](https://www.khanacademy.org/math/multivariable-calculus/greens-theorem-and-stokes-theorem/divergence-theorem-articles/a/3d-divergence-theorem)
 
 
+<h1> Integration by part in 2D/3D </h1>
+Integration by part in 2D/3D [view]({{ site.url }}/assests/Notes/FEM/IntegrationByParts.pdf)
 Video lecture [view](https://www.youtube.com/watch?v=uxQCjeo955o&t=2105s)
 
 <h1> 5- Volumetric locking </h1>
@@ -54,6 +50,8 @@ Uniform Reduced Integration [view]({{ site.url }}/assests/Notes/FEM/Volumetric_L
 
 Finite Element Method BBAR approach [view]({{ site.url }}/assests/Notes/FEM/Volumetric_Locking/B-bar.PDF)
 
+<h1> Finite Difference Method Concept </h1>
+Simple FDM 1D problem [view]({{ site.url }}/assests/Notes/FEM/FDM_1D.PDF)
 
 <h1> JULIA PROGRAMMING </h1>
 1) Julia tutorial- Type [view](https://github.com/quangvunp/geomechanics/blob/master/assests/Julia_TYPE.ipynb)
