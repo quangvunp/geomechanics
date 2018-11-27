@@ -9,6 +9,11 @@ Simple FDM 1D problem [view]({{ site.url }}/assests/Notes/FEM/FDM_1D.PDF)
 <h1> 2- Finite Element Method Concept </h1>
 Simple FEM 1D problem [view]({{ site.url }}/assests/Notes/FEM/Fem1D.PDF)
 
+
+<h1> Strong form</h1>
+Strong form of small strain problem [view]({{ site.url }}/assests/Notes/FEM/1_StrongForm_SmallStrain.pdf)
+
+
 <h1> 2.1- Strong form to weak form </h1>
 Deformation problem [view]({{ site.url }}/assests/Notes/FEM/2_StrongToWeakForm-SmallStrain.pdf)
 
