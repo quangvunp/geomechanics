@@ -18,4 +18,9 @@
 
 [2]  Kikumoto M. , **Nguyen, P. Q. V.**, Nakamura K.,  David M. W. A novel constitutive model for soil exhibits particle crushing. *Geotéchniques* (in preparation)
 
+[3]  **Nguyen, P. Q. V.**, Kikumoto M. , Nakamura K. Finite element analysis of active and passive earth pressure coefficients on crushable soil. (in preparation)​
+
 [3]  **Nguyen, P. Q. V.**, Kikumoto M. , Nakamura K. Finite element analysis of strip footing bearing capacity on crushable soil. *International Journal for Numerical and Analytical Methods in Geomechanics* (in preparation)​
+
+[3]  **Nguyen, P. Q. V.**, Kikumoto M. , Nakamura K. Volumetric locking and the effectiveness of modified B-bar method. (in preparation)​
+
